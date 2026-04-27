@@ -1,0 +1,11 @@
+# IDEs
+.idea/
+
+# Claude Code
+.claude/
+
+# Hugo
+/resources/
+public/
+assets/jsconfig.json
+.hugo_build.lock

@@ -1,0 +1,22 @@
+---
+title: "Polarity inversion in the electron density of BP crystal"
+authors:
+- Paula Mori-Sánchez
+- A. Martín Pendás
+- Víctor Luaña
+date: "2001-01-01T00:00:00Z"
+publishDate: "2026-04-27T11:40:40Z"
+publication_types: ["article-journal"]
+publication: "Phys. Rev. B"
+doi: "10.1103/physrevb.63.125103"
+abstract: ""
+featured: false
+url_pdf: ""
+url_code: ""
+url_dataset: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: "https://doi.org/10.1103/physrevb.63.125103"
+url_video: ""
+---

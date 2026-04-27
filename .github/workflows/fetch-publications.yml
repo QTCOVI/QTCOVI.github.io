@@ -1,0 +1,32 @@
+name: Fetch publications from ORCID
+
+on:
+  schedule:
+    - cron: '0 4 * * 1'   # Every Monday 04:00 UTC
+  workflow_dispatch:        # Allow manual trigger from GitHub UI
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests pyyaml
+
+      - name: Fetch publications
+        run: python scripts/fetch_orcid.py
+
+      - name: Commit new publications
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: auto-update publications from ORCID"
+          file_pattern: "content/publication/**"
