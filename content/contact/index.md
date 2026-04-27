@@ -20,8 +20,8 @@ sections:
         country: Spain
         country_code: ES
       coordinates:
-        latitude: '43.3559'
-        longitude: '-5.8598'
+        latitude: '43.3570'
+        longitude: '-5.8702'
       autolink: true
     design:
       columns: '1'
