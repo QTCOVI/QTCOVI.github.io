@@ -5,16 +5,16 @@ last_name: Díaz Fernández
 
 superuser: false
 
-role: Researcher
+role: Associate Professor
 
 organizations:
   - name: Universidad de Oviedo
     url: 'https://www.uniovi.es'
 
 bio: >
-  Researcher at the University of Oviedo working on the development and application
-  of quantum chemical topology methods, with a focus on electron correlation
-  and non-covalent interactions.
+  Associate Professor of Physical Chemistry at the University of Oviedo working on
+  the development and application of quantum chemical topology methods, with a focus
+  on electron correlation and non-covalent interactions.
 
 interests:
   - Quantum Chemical Topology
@@ -34,4 +34,4 @@ user_groups:
   - Researchers
 ---
 
-Natalia Díaz Fernández is a researcher at the University of Oviedo contributing to the development of quantum chemical topology methods and their application to the study of electron correlation and non-covalent interactions.
+Natalia Díaz Fernández is Associate Professor of Physical Chemistry at the University of Oviedo. Her research contributes to the development of quantum chemical topology methods and their application to the study of electron correlation and non-covalent interactions.

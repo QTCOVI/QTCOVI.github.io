@@ -5,14 +5,14 @@ last_name: Menéndez Herrero
 
 superuser: false
 
-role: PhD Student
+role: Former PhD Student
 
 organizations:
   - name: Universidad de Oviedo
     url: 'https://www.uniovi.es'
 
 bio: >
-  PhD student at the University of Oviedo investigating topological descriptors
+  Former PhD student of the QTCOVI group. Investigated topological descriptors
   of chemical bonding and their application to excited-state chemistry.
 
 interests:
@@ -30,7 +30,7 @@ email: ''
 highlight_name: false
 
 user_groups:
-  - PhD Students
+  - Alumni
 ---
 
-María Menéndez Herrero is a PhD student in the QTCOVI group, working on topological descriptors of chemical bonding in excited states and their application to photochemical processes.
+María Menéndez Herrero completed her PhD in the QTCOVI group, working on topological descriptors of chemical bonding in excited states and their application to photochemical processes.

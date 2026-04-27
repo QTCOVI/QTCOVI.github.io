@@ -12,6 +12,7 @@ sections:
         - Principal Investigator
         - Researchers
         - PhD Students
+        - Alumni
       sort_by: Params.last_name
       sort_ascending: true
     design:

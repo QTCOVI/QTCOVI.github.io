@@ -5,14 +5,14 @@ last_name: Lopes Rodrigues
 
 superuser: false
 
-role: Postdoctoral Researcher
+role: PhD Student
 
 organizations:
   - name: Universidad de Oviedo
     url: 'https://www.uniovi.es'
 
 bio: >
-  Postdoctoral researcher at the University of Oviedo applying quantum Monte Carlo
+  PhD student at the University of Oviedo applying quantum Monte Carlo
   and topological methods to the study of electron correlation and chemical bonding.
 
 interests:
@@ -30,7 +30,7 @@ email: ''
 highlight_name: false
 
 user_groups:
-  - Researchers
+  - PhD Students
 ---
 
-Diogo José Lopes Rodrigues is a postdoctoral researcher in the QTCOVI group, specialising in quantum Monte Carlo methods and their connection to topological descriptors of electron correlation and chemical bonding.
+Diogo José Lopes Rodrigues is a PhD student in the QTCOVI group, specialising in quantum Monte Carlo methods and their connection to topological descriptors of electron correlation and chemical bonding.
