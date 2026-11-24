@@ -1,0 +1,34 @@
+// QTCOVI overrides
+
+// Card thumbnails (highlights, homepage): show the whole figure, never crop it.
+.article-banner {
+  object-fit: contain;
+  background: #fff;
+}
+
+// Replace the hover zoom (which crops the edges) with a gentle fade.
+.img-hover-zoom:hover img {
+  transform: none;
+  opacity: 0.85;
+}
+.img-hover-zoom img {
+  transition: opacity 0.2s ease-in-out;
+}
+
+// Page header figure: put the caption below the image instead of over it.
+.featured-image-wrapper {
+  max-height: none !important;
+}
+.article-header-caption {
+  position: static;
+  display: block;
+  color: #6c757d;
+  background: none;
+  opacity: 1;
+  text-align: center;
+  font-size: 0.8em;
+  padding: 6px 0 0;
+}
+.dark .article-header-caption {
+  color: #adb5bd;
+}
