@@ -46,6 +46,29 @@ sections:
             potentials to tackle complex chemical systems.
 
   - block: collection
+    id: highlights
+    content:
+      title: Research Highlights
+      subtitle: Papers that changed how we think about the chemical bond
+      text: ""
+      count: 3
+      filters:
+        folders:
+          - highlights
+    design:
+      view: card
+      columns: '1'
+
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./highlights/" cta_text="All highlights →" %}}
+    design:
+      columns: '1'
+
+  - block: collection
     content:
       title: Recent Publications
       text: ""

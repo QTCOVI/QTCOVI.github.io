@@ -8,6 +8,9 @@ main:
   - name: Research
     url: research
     weight: 30
+  - name: Highlights
+    url: highlights
+    weight: 35
   - name: Publications
     url: publication
     weight: 40
