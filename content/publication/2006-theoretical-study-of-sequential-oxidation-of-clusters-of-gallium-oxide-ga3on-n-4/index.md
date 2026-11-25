@@ -2,7 +2,7 @@
 title: "Theoretical study of sequential oxidation of clusters of gallium oxide: Ga3On (n : 4-8)"
 authors:
 - S. Gowtham
-- Aurora Costales
+- aurora-costales
 - Ravindra Pandey
 date: "2006-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:42:33Z"
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1016/j.cplett.2006.09.105"
+url_source: ""
 url_video: ""
 ---

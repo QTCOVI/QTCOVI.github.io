@@ -2,7 +2,7 @@
 title: "Competition between hetero-Diels-Alder and cheletropic addition of sulfur dioxide. Theoretical and experimental substituent effects on the relative stability of 3,6-dihydro-1,2-oxathiin-2-oxides (sultines) and 2,5-dihydrothiophene-1,1-dioxides (sulfolenes). Anomeric effects in sultine and 6-substituted derivatives"
 authors:
 - Tino Fernández
-- Dimas Suárez
+- dimas-suarez
 - José A. Sordo
 - Frédéric Monnat
 - Elena Roversi
@@ -22,6 +22,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/jo981679g"
+url_source: ""
 url_video: ""
 ---

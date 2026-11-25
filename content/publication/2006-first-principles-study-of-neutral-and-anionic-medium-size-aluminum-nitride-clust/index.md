@@ -1,10 +1,10 @@
 ---
 title: "First Principles Study of Neutral and Anionic (Medium-Size) Aluminum Nitride Clusters: AlnNn, n = 7—16."
 authors:
-- Aurora Costales
+- aurora-costales
 - M. A. Blanco
-- E. Francisco
-- A. Martin Pendas
+- evelio-francisco
+- angel-pendas
 - Ravindra Pandey
 date: "2006-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:40:13Z"
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1002/chin.200628001"
+url_source: ""
 url_video: ""
 ---

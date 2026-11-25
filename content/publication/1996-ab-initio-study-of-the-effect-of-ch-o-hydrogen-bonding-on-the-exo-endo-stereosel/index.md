@@ -1,7 +1,7 @@
 ---
 title: "Ab initio study of the effect of CH ⋯ O hydrogen bonding on the exo/ endo stereoselectivity of Diels-Alder reactions of 2-substituted-1,3-dienes with sulfur dioxide"
 authors:
-- D. Suárez
+- dimas-suarez
 - R. López
 - J. González
 - T. L. Sordo
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1002/(sici)1097-461x(1996)57:3<493::aid-qua23>3.3.co;2-s"
+url_source: ""
 url_video: ""
 ---

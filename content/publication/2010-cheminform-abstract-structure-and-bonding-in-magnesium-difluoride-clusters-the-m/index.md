@@ -1,9 +1,9 @@
 ---
 title: "ChemInform Abstract: Structure and Bonding in Magnesium Difluoride Clusters: The MgF2 Molecule"
 authors:
-- E. Francisco
-- A. Costales
-- A. Martin Pendas
+- evelio-francisco
+- aurora-costales
+- angel-pendas
 date: "2010-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:39:45Z"
 publication_types: ["article-journal"]
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1002/chin.200130002"
+url_source: ""
 url_video: ""
 ---

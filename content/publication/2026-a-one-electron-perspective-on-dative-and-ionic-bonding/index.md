@@ -1,9 +1,9 @@
 ---
 title: "A one-electron perspective on dative and ionic bonding"
 authors:
-- D. Barrena-Espés
-- E. Francisco
-- Á. Martín Pendás
+- daniel-barrena
+- evelio-francisco
+- angel-pendas
 date: "2026-01-01T00:00:00Z"
 publishDate: "2026-06-01T09:09:45Z"
 publication_types: ["article-journal"]
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1039/d6sc01276k"
+url_source: ""
 url_video: ""
 ---

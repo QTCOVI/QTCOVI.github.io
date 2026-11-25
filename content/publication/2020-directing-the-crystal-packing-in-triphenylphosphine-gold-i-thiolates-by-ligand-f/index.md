@@ -6,7 +6,7 @@ authors:
 - José M. Guevara-Vela
 - Eduardo Romero-Montalvo
 - Tomás Rocha-Rinza
-- Ángel Martín Pendás
+- angel-pendas
 - Marcos Flores-Álamo
 - Hugo Torrens
 date: "2020-01-01T00:00:00Z"
@@ -22,6 +22,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/acs.inorgchem.9b03131"
+url_source: ""
 url_video: ""
 ---

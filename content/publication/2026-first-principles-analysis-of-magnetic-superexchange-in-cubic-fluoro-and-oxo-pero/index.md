@@ -3,7 +3,7 @@ title: "First-principles analysis of magnetic superexchange in cubic fluoro- and
 authors:
 - Inés Sánchez-Movellán
 - Richard Dronskowski
-- Ángel Martín Pendás
+- angel-pendas
 - Pablo García-Fernández
 - Miguel Moreno
 - José Antonio Aramburu
@@ -20,6 +20,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1039/d6cp03094g"
+url_source: ""
 url_video: ""
 ---

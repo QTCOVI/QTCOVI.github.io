@@ -3,9 +3,9 @@ title: "Atomic Ehrenfest forces"
 authors:
 - Aldo J. Mortera-Carbonell
 - Samuel García-García
-- Evelio Francisco
+- evelio-francisco
 - Jesús Hernández-Trujillo
-- Ángel Martín Pendás
+- angel-pendas
 date: "2026-01-01T00:00:00Z"
 publishDate: "2026-10-19T09:23:21Z"
 publication_types: ["article-journal"]
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1007/s11224-026-02925-z"
+url_source: ""
 url_video: ""
 ---

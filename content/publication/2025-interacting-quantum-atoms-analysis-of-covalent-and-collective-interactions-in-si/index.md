@@ -3,9 +3,9 @@ title: "Interacting Quantum Atoms Analysis of Covalent and Collective Interactio
 authors:
 - Antonio Bonesana-Espinoza
 - José Manuel Guevara-Vela
-- Evelio Francisco
+- evelio-francisco
 - Tomás Rocha-Rinza
-- Ángel Martín Pendás
+- angel-pendas
 date: "2025-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:37:06Z"
 publication_types: ["article-journal"]
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.3390/molecules30214316"
+url_source: ""
 url_video: ""
 ---

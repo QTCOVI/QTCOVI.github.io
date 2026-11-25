@@ -1,7 +1,7 @@
 ---
 title: "Static simulations of CaF 2 polymorphs"
 authors:
-- A. Martín Pendás
+- angel-pendas
 - J. M. Recio
 - M. Flórez
 - Víctor Luaña
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1103/physrevb.49.5858"
+url_source: ""
 url_video: ""
 ---

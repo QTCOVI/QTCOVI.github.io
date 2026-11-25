@@ -4,7 +4,7 @@ authors:
 - José Manuel Guevara‐Vela
 - Eduardo Romero‐Montalvo
 - Alejandra del Río‐Lima
-- Ángel Martín Pendás
+- angel-pendas
 - Marcos Hernández‐Rodríguez
 - Tomás Rocha Rinza
 date: "2017-01-01T00:00:00Z"
@@ -20,6 +20,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1002/chem.201703436"
+url_source: ""
 url_video: ""
 ---

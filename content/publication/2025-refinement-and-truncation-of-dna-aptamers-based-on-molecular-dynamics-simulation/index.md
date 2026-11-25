@@ -3,8 +3,8 @@ title: "Refinement and Truncation of DNA Aptamers Based on Molecular Dynamics Si
 authors:
 - Ana Díaz-Fernández
 - Carmen S. Ciudad
-- Natalia Díaz
-- Dimas Suárez
+- natalia-diaz
+- dimas-suarez
 - Noemí de-los-Santos-Álvarez
 - M. Jesús Lobo-Castañón
 date: "2025-01-01T00:00:00Z"
@@ -20,6 +20,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/acs.jcim.5c00243"
+url_source: ""
 url_video: ""
 ---

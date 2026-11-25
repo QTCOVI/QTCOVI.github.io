@@ -2,7 +2,7 @@
 title: "Reply to: An approach to the resolution of the dispute on collective atomic interactions"
 authors:
 - Nuno A. G. Bandeira
-- Ángel Martín Pendás
+- angel-pendas
 - Cina Foroutan-Nejad
 date: "2024-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:37:22Z"
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1038/s41467-024-54553-y"
+url_source: ""
 url_video: ""
 ---

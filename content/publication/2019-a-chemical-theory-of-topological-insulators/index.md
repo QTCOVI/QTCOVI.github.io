@@ -1,7 +1,7 @@
 ---
 title: "A chemical theory of topological insulators"
 authors:
-- Angel Martín Pendás
+- angel-pendas
 - Julia Contreras-García
 - Fernanda Pinilla
 - José D. Mella
@@ -20,6 +20,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1039/c9cc04054d"
+url_source: ""
 url_video: ""
 ---

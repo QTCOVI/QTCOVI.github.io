@@ -1,7 +1,7 @@
 ---
 title: "A COMPARATIVE-ANALYSIS OF THE MECHANISMS OF CHELETROPIC AND DIELS-ALDER REACTIONS OF 1,3-DIENES WITH SULFUR-DIOXIDE - KINETIC AND THERMODYNAMIC CONTROLS"
 authors:
-- D. Suarez
+- dimas-suarez
 - T. L. Sordo
 - J. A. Sordo
 date: "1995-01-01T00:00:00Z"
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/jo00114a039"
+url_source: ""
 url_video: ""
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Zinc metallo-beta-lactamase from Bacteroides fragilis: A quantum chemical study on model systems of the active site"
 authors:
-- Natalia Díaz
-- Dimas Suárez
+- natalia-diaz
+- dimas-suarez
 - Kenneth M. Merz
 date: "2000-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:44:44Z"
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/ja994462s"
+url_source: ""
 url_video: ""
 ---

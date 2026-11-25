@@ -3,9 +3,9 @@ title: "First-principles study of the rocksalt–cesium chloride relative phase 
 authors:
 - M. Flórez
 - J. M. Recio
-- E. Francisco
+- evelio-francisco
 - M. A. Blanco
-- A. Martín Pendás
+- angel-pendas
 date: "2002-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:40:28Z"
 publication_types: ["article-journal"]
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1103/physrevb.66.144112"
+url_source: ""
 url_video: ""
 ---

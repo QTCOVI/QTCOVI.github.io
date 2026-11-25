@@ -3,9 +3,9 @@ title: "Does Aromaticity Play a Role in Electronic and Structural Properties of 
 authors:
 - Miguel Gallegos
 - José Manuel Guevara‐Vela
-- Aurora Costales
+- aurora-costales
 - Tomás Rocha‐Rinza
-- Ángel Martín Pendás
+- angel-pendas
 date: "2024-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:42:17Z"
 publication_types: ["article-journal"]
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1002/cphc.202400544"
+url_source: ""
 url_video: ""
 ---

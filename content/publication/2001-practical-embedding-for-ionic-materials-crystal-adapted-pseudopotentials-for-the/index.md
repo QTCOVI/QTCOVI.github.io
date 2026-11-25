@@ -3,7 +3,7 @@ title: "Practical embedding for ionic materials: Crystal-adapted pseudopotential
 authors:
 - Víctor Luaña
 - J. M. Recio
-- A. Martín Pendás
+- angel-pendas
 - M. A. Blanco
 - L. Pueyo
 - Ravindra Pandey
@@ -20,6 +20,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1103/physrevb.64.104102"
+url_source: ""
 url_video: ""
 ---

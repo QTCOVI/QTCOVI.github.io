@@ -2,7 +2,7 @@
 title: "Formation of trichlorinated dibenzo-p-dioxins from 2,4-dichlorophenol and 2,4,5-trichlorophenolate: A theoretical study"
 authors:
 - Ernesto Suárez
-- Dimas Suárez
+- dimas-suarez
 - Maria Isabel Menéndez
 - Ramón López
 - Tomás Luis Sordo
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1002/cphc.200600355"
+url_source: ""
 url_video: ""
 ---

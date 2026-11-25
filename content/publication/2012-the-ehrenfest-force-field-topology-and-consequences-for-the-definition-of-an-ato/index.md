@@ -1,7 +1,7 @@
 ---
 title: "The Ehrenfest force field: Topology and consequences for the definition of an atom in a molecule"
 authors:
-- A. Martín Pendás
+- angel-pendas
 - J. Hernández-Trujillo
 date: "2012-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:39:35Z"
@@ -16,6 +16,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1063/1.4755326"
+url_source: ""
 url_video: ""
 ---

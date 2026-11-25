@@ -1,10 +1,10 @@
 ---
 title: "Comparison of direct and flow integration based charge density population analyses"
 authors:
-- E. Francisco
-- A. Martín Pendás
+- evelio-francisco
+- angel-pendas
 - M. A. Blanco
-- A. Costales
+- aurora-costales
 date: "2007-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:41:31Z"
 publication_types: ["article-journal"]
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/jp0758263"
+url_source: ""
 url_video: ""
 ---

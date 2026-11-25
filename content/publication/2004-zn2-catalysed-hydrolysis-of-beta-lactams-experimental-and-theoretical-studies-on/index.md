@@ -1,9 +1,9 @@
 ---
 title: "Zn2+ catalysed hydrolysis of beta-lactams: experimental and theoretical studies on the influence of the beta-lactam structure"
 authors:
-- Natalia Díaz
+- natalia-diaz
 - Tomás L. Sordo
-- Dimas Suárez
+- dimas-suarez
 - Rosa Méndez
 - Javier Martín-Villacorta
 date: "2004-01-01T00:00:00Z"
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1039/b306799h"
+url_source: ""
 url_video: ""
 ---

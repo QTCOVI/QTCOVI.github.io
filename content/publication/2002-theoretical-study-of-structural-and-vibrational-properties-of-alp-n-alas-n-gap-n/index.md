@@ -1,7 +1,7 @@
 ---
 title: "Theoretical study of structural and vibrational properties of (AlP)(n), (AlAs)(n), (GaP)(n), (GaAs)(n), (InP)(n), and (InAs)(n), clusters with n=1, 2, 3"
 authors:
-- Aurora Costales
+- aurora-costales
 - Anil K. Kandalam
 - Ruth Franco
 - Ravindra Pandey
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/jp013906f"
+url_source: ""
 url_video: ""
 ---

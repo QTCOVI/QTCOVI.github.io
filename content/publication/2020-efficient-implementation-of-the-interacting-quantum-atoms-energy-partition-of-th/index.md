@@ -3,9 +3,9 @@ title: "Efficient implementation of the interacting quantum atoms energy partiti
 authors:
 - José Luis Casals‐Sainz
 - José Manuel Guevara‐Vela
-- Evelio Francisco
+- evelio-francisco
 - Tomás Rocha‐Rinza
-- Ángel Martín Pendás
+- angel-pendas
 date: "2020-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:38:11Z"
 publication_types: ["article-journal"]
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1002/jcc.26169"
+url_source: ""
 url_video: ""
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Insights into the structure and dynamics of the dinuclear zinc beta-lactamase site from Bacteroides fragilis"
 authors:
-- Dimas Suárez
+- dimas-suarez
 - Edward N. Brothers
 - Kenneth M. Merz
 date: "2002-01-01T00:00:00Z"
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/bi0121860"
+url_source: ""
 url_video: ""
 ---

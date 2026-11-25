@@ -2,7 +2,7 @@
 title: "PM3-compatible zinc parameters optimized for metalloenzyme active sites"
 authors:
 - Edward N. Brothers
-- Dimas Suarez
+- dimas-suarez
 - David W. Deerfield
 - Kenneth M. Merz
 date: "2004-01-01T00:00:00Z"
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1002/jcc.20086"
+url_source: ""
 url_video: ""
 ---

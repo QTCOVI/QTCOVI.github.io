@@ -1,8 +1,8 @@
 ---
 title: "Ureases: Quantum chemical calculations on cluster models"
 authors:
-- Dimas Suárez
-- Natalia Díaz
+- dimas-suarez
+- natalia-diaz
 - Kenneth M. Merz
 date: "2003-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:44:24Z"
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/ja030145g"
+url_source: ""
 url_video: ""
 ---

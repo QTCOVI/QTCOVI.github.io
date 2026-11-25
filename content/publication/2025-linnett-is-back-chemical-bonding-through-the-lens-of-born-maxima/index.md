@@ -1,9 +1,9 @@
 ---
 title: "Linnett is Back: Chemical Bonding through the Lens of Born Maxima"
 authors:
-- María Menéndez-Herrero
-- Evelio Francisco
-- Ángel Martín Pendás
+- maria-menendez
+- evelio-francisco
+- angel-pendas
 date: "2025-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:37:13Z"
 publication_types: ["article-journal"]
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/acs.jctc.4c01785"
+url_source: ""
 url_video: ""
 ---

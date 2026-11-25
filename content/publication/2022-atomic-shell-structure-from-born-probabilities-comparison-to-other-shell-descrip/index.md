@@ -1,10 +1,10 @@
 ---
 title: "Atomic shell structure from Born probabilities: Comparison to other shell descriptors and persistence in molecules"
 authors:
-- María Menéndez-Herrero
+- maria-menendez
 - Julen Munárriz
-- Evelio Francisco
-- Ángel Martín Pendás
+- evelio-francisco
+- angel-pendas
 date: "2022-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:37:40Z"
 publication_types: ["article-journal"]
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1063/5.0089438"
+url_source: ""
 url_video: ""
 ---

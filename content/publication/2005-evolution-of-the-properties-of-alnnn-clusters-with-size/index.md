@@ -1,11 +1,11 @@
 ---
 title: "Evolution of the properties of AlnNn clusters with size"
 authors:
-- Aurora Costales
+- aurora-costales
 - M. A. Blanco
-- E. Francisco
+- evelio-francisco
 - Ravindra Pandey
-- A. Martín Pendás
+- angel-pendas
 date: "2005-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:41:36Z"
 publication_types: ["article-journal"]
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/jp055094j"
+url_source: ""
 url_video: ""
 ---

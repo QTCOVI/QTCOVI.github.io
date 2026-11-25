@@ -1,8 +1,8 @@
 ---
 title: "Generalized Huzinaga building‐block equations for nonorthogonal electronic groups: Relation to the Adams–Gilbert theory"
 authors:
-- E. Francisco
-- A. Martín Pendás
+- evelio-francisco
+- angel-pendas
 - W. H. Adams
 date: "1992-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:41:09Z"
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1063/1.463679"
+url_source: ""
 url_video: ""
 ---

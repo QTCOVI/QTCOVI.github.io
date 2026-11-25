@@ -2,7 +2,7 @@
 title: "Bases for Understanding Polymerization under Pressure: The Practical Case of CO2"
 authors:
 - J. Contreras-García
-- Á. Martín Pendás
+- angel-pendas
 - B. Silvi
 - J. M. Recio
 date: "2009-01-01T00:00:00Z"
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/jp8069546"
+url_source: ""
 url_video: ""
 ---

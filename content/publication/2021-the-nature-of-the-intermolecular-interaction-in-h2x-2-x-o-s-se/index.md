@@ -4,9 +4,9 @@ authors:
 - Alberto Fernández-Alarcón
 - José Manuel Guevara-Vela
 - José Luis Casals-Sainz
-- Evelio Francisco
-- Aurora Costales
-- Ángel Martín Pendás
+- evelio-francisco
+- aurora-costales
+- angel-pendas
 - Tomás Rocha-Rinza
 date: "2021-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:38:03Z"
@@ -21,6 +21,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1039/d1cp00047k"
+url_source: ""
 url_video: ""
 ---

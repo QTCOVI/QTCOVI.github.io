@@ -5,7 +5,7 @@ authors:
 - José Manuel Guevara-Vela
 - Rafael Delgadillo-Ruíz
 - Tomás Rocha-Rinza
-- Ángel Martín Pendás
+- angel-pendas
 - Marcos Flores-Álamo
 - Hugo Torrens
 date: "2017-01-01T00:00:00Z"
@@ -21,6 +21,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1039/c7nj02202f"
+url_source: ""
 url_video: ""
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Amphiphilic cyclodextrins: Dimerization and diazepam binding explored by molecular dynamics simulations"
 authors:
-- Dimas Suárez
-- Natalia Díaz
+- dimas-suarez
+- natalia-diaz
 date: "2022-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:43:15Z"
 publication_types: ["article-journal"]
@@ -16,6 +16,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1016/j.molliq.2021.118457"
+url_source: ""
 url_video: ""
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Two-electron integrations in the Quantum Theory of Atoms in Molecules with correlated wave functions"
 authors:
-- A. Martín Pendás
-- E. Francisco
+- angel-pendas
+- evelio-francisco
 - M. A. Blanco
 date: "2005-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:40:21Z"
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1002/jcc.20173"
+url_source: ""
 url_video: ""
 ---

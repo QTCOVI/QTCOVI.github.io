@@ -10,7 +10,7 @@ sections:
         QTCOVI
         Research Group
       image:
-        filename: group_photo.jpg
+        filename: hero_qtaim.png
       text: |
         <br>
 
@@ -57,15 +57,6 @@ sections:
           - highlights
     design:
       view: card
-      columns: '1'
-
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./highlights/" cta_text="All highlights →" %}}
-    design:
       columns: '1'
 
   - block: collection

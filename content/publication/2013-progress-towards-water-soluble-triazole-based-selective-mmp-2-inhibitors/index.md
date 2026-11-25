@@ -4,11 +4,11 @@ authors:
 - Benjamin Fabre
 - Kamila Filipiak
 - José María Zapico
-- Natalia Díaz
+- natalia-diaz
 - Rodrigo J. Carbajo
 - Anne K. Schott
 - María Paz Martínez-Alcázar
-- Dimas Suárez
+- dimas-suarez
 - Antonio Pineda-Lucena
 - Ana Ramos
 - Beatriz de Pascual-Teresa
@@ -25,6 +25,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1039/c3ob41046c"
+url_source: ""
 url_video: ""
 ---

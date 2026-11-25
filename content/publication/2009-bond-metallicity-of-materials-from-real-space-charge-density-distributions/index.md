@@ -5,7 +5,7 @@ authors:
 - P.W. Ayers
 - S.R. Kirk
 - P. Mori-Sánchez
-- A. Martín Pendás
+- angel-pendas
 date: "2009-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:39:51Z"
 publication_types: ["article-journal"]
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1016/j.cplett.2009.02.018"
+url_source: ""
 url_video: ""
 ---

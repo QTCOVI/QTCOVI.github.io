@@ -3,7 +3,7 @@ title: "Theoretical explanation of the uniform compressibility behavior observed
 authors:
 - J. M. Recio
 - R. Franco
-- A. Martín Pendás
+- angel-pendas
 - M. A. Blanco
 - L. Pueyo
 - Ravindra Pandey
@@ -20,6 +20,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1103/physrevb.63.184101"
+url_source: ""
 url_video: ""
 ---

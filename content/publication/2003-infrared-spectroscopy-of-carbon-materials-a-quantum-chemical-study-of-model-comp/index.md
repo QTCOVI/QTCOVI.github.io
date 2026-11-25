@@ -4,7 +4,7 @@ authors:
 - E. Fuente
 - J. A. Menéndez
 - M. A. Díez
-- D. Suárez
+- dimas-suarez
 - M. A. Montes-Morán
 date: "2003-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:44:21Z"
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/jp027482g"
+url_source: ""
 url_video: ""
 ---

@@ -1,10 +1,10 @@
 ---
 title: "Effects of a quantum crystal potential on the derivation of electron gas interionic energies"
 authors:
-- E. Francisco
+- evelio-francisco
 - J. M. Recio
 - M. A. Blanco
-- A. Martín Pendás
+- angel-pendas
 - L. Pueyo
 date: "1995-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:41:53Z"
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1080/10420159508227213"
+url_source: ""
 url_video: ""
 ---

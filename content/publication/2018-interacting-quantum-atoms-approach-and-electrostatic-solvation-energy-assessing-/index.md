@@ -2,10 +2,10 @@
 title: "Interacting Quantum Atoms Approach and Electrostatic Solvation Energy: Assessing Atomic and Group Solvation Contributions"
 authors:
 - Fernando Jiménez‐Grávalos
-- Natalia Díaz
-- Evelio Francisco
-- Ángel Martín‐Pendás
-- Dimas Suárez
+- natalia-diaz
+- evelio-francisco
+- angel-pendas
+- dimas-suarez
 date: "2018-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:43:27Z"
 publication_types: ["article-journal"]
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1002/cphc.201800733"
+url_source: ""
 url_video: ""
 ---

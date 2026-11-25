@@ -2,8 +2,8 @@
 title: "A Dynamical Density Field That Shows the Localizability of Electrons: The Exchange-Correlation Ehrenfest Force"
 authors:
 - Aldo J. Mortera-Carbonell
-- Evelio Francisco
-- Ángel Martín Pendás
+- evelio-francisco
+- angel-pendas
 - Jesús Hernández-Trujillo
 date: "2024-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:37:23Z"
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/acs.jctc.4c00890"
+url_source: ""
 url_video: ""
 ---

@@ -8,7 +8,7 @@ authors:
 - Fernando Aznar
 - María-Paz Cabal
 - José María García
-- Natalia Díaz
+- natalia-diaz
 date: "2010-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:45:25Z"
 publication_types: ["article-journal"]
@@ -22,6 +22,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1128/aac.00149-10"
+url_source: ""
 url_video: ""
 ---

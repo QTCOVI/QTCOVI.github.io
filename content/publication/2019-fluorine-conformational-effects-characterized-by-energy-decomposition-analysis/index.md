@@ -1,11 +1,11 @@
 ---
 title: "Fluorine conformational effects characterized by energy decomposition analysis"
 authors:
-- Natalia Díaz
+- natalia-diaz
 - Fernando Jiménez-Grávalos
-- Dimas Suárez
-- Evelio Francisco
-- Ángel Martín-Pendás
+- dimas-suarez
+- evelio-francisco
+- angel-pendas
 date: "2019-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:38:27Z"
 publication_types: ["article-journal"]
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1039/c9cp05009d"
+url_source: ""
 url_video: ""
 ---

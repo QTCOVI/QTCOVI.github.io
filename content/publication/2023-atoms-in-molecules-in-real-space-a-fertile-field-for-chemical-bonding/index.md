@@ -1,11 +1,11 @@
 ---
 title: "Atoms in molecules in real space: a fertile field for chemical bonding"
 authors:
-- Ángel Martín Pendás
-- Evelio Francisco
-- Dimas Suárez
-- Aurora Costales
-- Natalia Díaz
+- angel-pendas
+- evelio-francisco
+- dimas-suarez
+- aurora-costales
+- natalia-diaz
 - Julen Munárriz
 - Tomás Rocha-Rinza
 - José Manuel Guevara-Vela
@@ -22,6 +22,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1039/d2cp05540f"
+url_source: ""
 url_video: ""
 ---

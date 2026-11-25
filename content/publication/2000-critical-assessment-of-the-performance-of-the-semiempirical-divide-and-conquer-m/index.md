@@ -2,7 +2,7 @@
 title: "Critical assessment of the performance of the semiempirical divide and conquer method for single point calculations and geometry optimizations of large chemical systems"
 authors:
 - Arjan van der Vaart
-- Dimas Suárez
+- dimas-suarez
 - Kenneth M. Merz
 date: "2000-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:44:38Z"
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1063/1.1323257"
+url_source: ""
 url_video: ""
 ---

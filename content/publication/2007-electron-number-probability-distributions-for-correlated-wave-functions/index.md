@@ -1,8 +1,8 @@
 ---
 title: "Electron number probability distributions for correlated wave functions"
 authors:
-- E. Francisco
-- A. Martín Pendás
+- evelio-francisco
+- angel-pendas
 - M. A. Blanco
 date: "2007-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:40:04Z"
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1063/1.2709883"
+url_source: ""
 url_video: ""
 ---

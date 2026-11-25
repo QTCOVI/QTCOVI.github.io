@@ -3,8 +3,8 @@ title: "Theoretical studies on the ring opening of beta-lactams: Processes in so
 authors:
 - R. Lopez
 - M. Menendez
-- N. Diaz
-- D. Suarez
+- natalia-diaz
+- dimas-suarez
 - P. Campomanes
 - D. Ardura
 - T. Sordo
@@ -21,6 +21,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.2174/138527206776818883"
+url_source: ""
 url_video: ""
 ---

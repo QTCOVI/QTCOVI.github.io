@@ -1,8 +1,8 @@
 ---
 title: "Global optimization of ionic MgnF2n (n=1–30) clusters"
 authors:
-- E. Francisco
-- A. Martín Pendás
+- evelio-francisco
+- angel-pendas
 - M. A. Blanco
 date: "2005-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:40:22Z"
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1063/1.2138688"
+url_source: ""
 url_video: ""
 ---

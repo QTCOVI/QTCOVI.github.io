@@ -3,7 +3,7 @@ title: "Chemical bonding in excited states: Energy transfer and charge redistrib
 authors:
 - Jesús Jara‐Cortés
 - José Manuel Guevara‐Vela
-- Ángel Martín Pendás
+- angel-pendas
 - Jesús Hernández‐Trujillo
 date: "2017-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:38:47Z"
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1002/jcc.24769"
+url_source: ""
 url_video: ""
 ---

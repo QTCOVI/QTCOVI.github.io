@@ -11,8 +11,8 @@ authors:
 - J. M. Costa
 - R. Mendoza-Meroño
 - S. García-Granda
-- Ángel Martín Pendás
-- Aurora Costales
+- angel-pendas
+- aurora-costales
 date: "2019-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:42:23Z"
 publication_types: ["article-journal"]
@@ -26,6 +26,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1007/s00214-019-2496-0"
+url_source: ""
 url_video: ""
 ---

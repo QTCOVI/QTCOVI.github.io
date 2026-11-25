@@ -1,9 +1,9 @@
 ---
 title: "Exhaustive Spatial Sampling for Complete Topology of the Electrostatic Potential"
 authors:
-- Evelio Francisco
-- Ángel Martín Pendás
-- Dimas Suárez
+- evelio-francisco
+- angel-pendas
+- dimas-suarez
 date: "2025-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:37:10Z"
 publication_types: ["article-journal"]
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1002/jcc.70188"
+url_source: ""
 url_video: ""
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Can we talk about ionic bonds in molecules? Yes, just as we do for covalent bonds"
 authors:
-- Ángel Martín Pendás
+- angel-pendas
 - Diogo J. L. Rodriges
-- Evelio Francisco
+- evelio-francisco
 date: "2025-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:37:19Z"
 publication_types: ["article-journal"]
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1039/d4cp04353g"
+url_source: ""
 url_video: ""
 ---

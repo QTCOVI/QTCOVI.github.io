@@ -1,8 +1,8 @@
 ---
 title: "Water-assisted alkaline hydrolysis of monobactams: A theoretical study"
 authors:
-- Natalia Díaz
-- Dimas Suárez
+- natalia-diaz
+- dimas-suarez
 - Tomás L. Sordo
 - Iñaki Tuñón
 - Estanislao Silla
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1002/1521-3765(20020215)8:4<859::aid-chem859>3.0.co;2-i"
+url_source: ""
 url_video: ""
 ---

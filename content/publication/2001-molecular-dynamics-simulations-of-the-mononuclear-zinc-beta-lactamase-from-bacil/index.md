@@ -1,7 +1,7 @@
 ---
 title: "Molecular dynamics simulations of the mononuclear zinc-beta-lactamase from Bacillus cereus"
 authors:
-- Dimas Suárez
+- dimas-suarez
 - Kenneth M. Merz
 date: "2001-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:44:32Z"
@@ -16,6 +16,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/ja003796a"
+url_source: ""
 url_video: ""
 ---

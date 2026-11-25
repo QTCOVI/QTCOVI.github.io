@@ -4,7 +4,7 @@ authors:
 - Miguel A. Blanco
 - Munima B. Sahariah
 - Huitian Jiang
-- Aurora Costales
+- aurora-costales
 - Ravindra Pandey
 date: "2005-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:42:34Z"
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1103/physrevb.72.184103"
+url_source: ""
 url_video: ""
 ---

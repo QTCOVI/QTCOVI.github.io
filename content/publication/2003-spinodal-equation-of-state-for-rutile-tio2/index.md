@@ -1,7 +1,7 @@
 ---
 title: "Spinodal equation of state for rutile TiO2"
 authors:
-- E. Francisco
+- evelio-francisco
 - M. Bermejo
 - V. García Baonza
 - L. Gerward
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1103/physrevb.67.064110"
+url_source: ""
 url_video: ""
 ---

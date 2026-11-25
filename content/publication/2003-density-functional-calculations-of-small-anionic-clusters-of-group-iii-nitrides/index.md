@@ -1,7 +1,7 @@
 ---
 title: "Density functional calculations of small anionic clusters of group III nitrides"
 authors:
-- Aurora Costales
+- aurora-costales
 - Ravindra Pandey
 date: "2003-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:42:42Z"
@@ -16,6 +16,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/jp022202i"
+url_source: ""
 url_video: ""
 ---

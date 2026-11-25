@@ -2,9 +2,9 @@
 title: "Correction to “Performance of the Density Matrix Functional Theory in the Quantum Theory of Atoms in Molecules”"
 authors:
 - Marco García-Revilla
-- E. Francisco
-- A. Costales
-- A. Martín Pendás
+- evelio-francisco
+- aurora-costales
+- angel-pendas
 date: "2012-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:39:30Z"
 publication_types: ["article-journal"]
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/jp3074442"
+url_source: ""
 url_video: ""
 ---

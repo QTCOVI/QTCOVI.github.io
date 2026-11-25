@@ -2,8 +2,8 @@
 title: "How Electronic Excitation Can be Used to Inhibit Some Mechanisms Associated to Substituent Effects."
 authors:
 - David Ferro‐Costas
-- Evelio Francisco
-- Ángel Martín Pendás
+- evelio-francisco
+- angel-pendas
 - Ricardo A. Mosquera
 date: "2016-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:38:56Z"
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1002/cphc.201600281"
+url_source: ""
 url_video: ""
 ---

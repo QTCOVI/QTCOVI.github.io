@@ -3,7 +3,7 @@ title: "Revitalizing the concept of bond order through delocalization measures i
 authors:
 - Carlos Outeiral
 - Mark A. Vincent
-- Ángel Martín Pendás
+- angel-pendas
 - Paul L. A. Popelier
 date: "2018-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:38:42Z"
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1039/c8sc01338a"
+url_source: ""
 url_video: ""
 ---

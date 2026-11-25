@@ -2,10 +2,10 @@
 title: "Topological properties of the electron density of solids and molecules. Recent developments in Oviedo"
 authors:
 - Víctor Luaña
-- Aurora Costales
+- aurora-costales
 - Paula Mori-Sánchez
 - MiguelA. Blanco
-- A. Martín Pendás
+- angel-pendas
 date: "2004-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:42:41Z"
 publication_types: ["article-journal"]
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1107/s0108767304017441"
+url_source: ""
 url_video: ""
 ---

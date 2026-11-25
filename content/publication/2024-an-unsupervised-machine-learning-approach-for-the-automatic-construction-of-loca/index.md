@@ -4,7 +4,7 @@ authors:
 - Miguel Gallegos
 - Bienfait Kabuyaya Isamura
 - Paul L. A. Popelier
-- Ángel Martín Pendás
+- angel-pendas
 date: "2024-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:37:26Z"
 publication_types: ["article-journal"]
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/acs.jcim.3c01906"
+url_source: ""
 url_video: ""
 ---

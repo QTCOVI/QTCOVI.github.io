@@ -3,7 +3,7 @@ title: "Hierarchies of quantum chemical descriptors induced by statistical analy
 authors:
 - Guillaume Acke
 - Stijn De Baerdemacker
-- Ángel Martín Pendás
+- angel-pendas
 - Patrick Bultinck
 date: "2020-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:38:10Z"
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1002/wcms.1456"
+url_source: ""
 url_video: ""
 ---

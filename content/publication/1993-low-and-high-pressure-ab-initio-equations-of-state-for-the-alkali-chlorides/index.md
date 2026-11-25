@@ -2,8 +2,8 @@
 title: "Low- and high-pressure ab initio equations of state for the alkali chlorides"
 authors:
 - J. M. Recio
-- A. Martín Pendás
-- E. Francisco
+- angel-pendas
+- evelio-francisco
 - M. Flórez
 - Víctor Luaña
 date: "1993-01-01T00:00:00Z"
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1103/physrevb.48.5891"
+url_source: ""
 url_video: ""
 ---

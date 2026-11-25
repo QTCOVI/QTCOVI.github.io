@@ -1,8 +1,8 @@
 ---
 title: "A combined theoretical and experimental research project into the aminolysis of beta-lactam antibiotics: The importance of bifunctional catalysis"
 authors:
-- Natalia Díaz
-- Dimas Suárez
+- natalia-diaz
+- dimas-suarez
 - Tomás L. Sordo
 - Rosa Méndez
 - Javier Martín Villacorta
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1002/ejoc.200300418"
+url_source: ""
 url_video: ""
 ---

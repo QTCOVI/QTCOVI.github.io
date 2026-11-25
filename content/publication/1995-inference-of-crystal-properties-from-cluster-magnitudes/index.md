@@ -1,9 +1,9 @@
 ---
 title: "INFERENCE OF CRYSTAL PROPERTIES FROM CLUSTER MAGNITUDES"
 authors:
-- E. Francisco
+- evelio-francisco
 - J. M. Recio
-- A. Martín Pendás
+- angel-pendas
 date: "1995-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:41:55Z"
 publication_types: ["article-journal"]
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1063/1.469609"
+url_source: ""
 url_video: ""
 ---

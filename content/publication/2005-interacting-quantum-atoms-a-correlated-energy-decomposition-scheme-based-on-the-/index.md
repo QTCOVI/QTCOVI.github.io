@@ -15,6 +15,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/ct0501093"
+url_source: ""
 url_video: ""
 ---

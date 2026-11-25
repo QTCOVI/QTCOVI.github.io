@@ -2,8 +2,8 @@
 title: "Ionic properties of perovskites derived from topological analysis of their wave function"
 authors:
 - Víctor Luaña
-- Aurora Costales
-- A Martín Pendás
+- aurora-costales
+- angel-pendas
 - L Pueyo
 date: "1999-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:40:49Z"
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1088/0953-8984/11/33/303"
+url_source: ""
 url_video: ""
 ---

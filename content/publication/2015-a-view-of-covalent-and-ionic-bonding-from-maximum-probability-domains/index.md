@@ -2,7 +2,7 @@
 title: "A view of covalent and ionic bonding from Maximum Probability Domains"
 authors:
 - M. Menéndez
-- A. Martín Pendás
+- angel-pendas
 - B. Braïda
 - A. Savin
 date: "2015-01-01T00:00:00Z"
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1016/j.comptc.2014.10.004"
+url_source: ""
 url_video: ""
 ---

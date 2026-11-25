@@ -2,7 +2,7 @@
 title: "On the nature of basic sites on carbon surfaces: An overview"
 authors:
 - M.A. Montes-Morán
-- D. Suárez
+- dimas-suarez
 - J.A. Menéndez
 - E. Fuente
 date: "2004-01-01T00:00:00Z"
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1016/j.carbon.2004.01.023"
+url_source: ""
 url_video: ""
 ---

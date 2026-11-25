@@ -3,7 +3,7 @@ title: "Hemilability Modulation via Phosphane-Triazole Ligand Design: Impact on 
 authors:
 - Susana García-Abellán
 - Andrea Pérez-García
-- Daniel Barrena-Espés
+- daniel-barrena
 - Miguel A. Casado
 - Julen Munarriz
 - Vincenzo Passarelli
@@ -21,6 +21,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/acs.inorgchem.5c03962"
+url_source: ""
 url_video: ""
 ---

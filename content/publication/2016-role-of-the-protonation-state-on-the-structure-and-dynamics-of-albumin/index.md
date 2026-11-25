@@ -1,8 +1,8 @@
 ---
 title: "Role of the Protonation State on the Structure and Dynamics of Albumin"
 authors:
-- Natalia Díaz
-- Dimas Suárez
+- natalia-diaz
+- dimas-suarez
 date: "2016-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:43:31Z"
 publication_types: ["article-journal"]
@@ -16,6 +16,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/acs.jctc.5b01001"
+url_source: ""
 url_video: ""
 ---

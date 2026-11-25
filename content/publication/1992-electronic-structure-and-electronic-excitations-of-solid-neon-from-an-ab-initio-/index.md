@@ -1,8 +1,8 @@
 ---
 title: "Electronic structure and electronic excitations of solid neon from an ab initio atom-in-the-lattice approach"
 authors:
-- A. Martin Pendas
-- E. Francisco
+- angel-pendas
+- evelio-francisco
 - V. Luana
 - L. Pueyo
 date: "1992-01-01T00:00:00Z"
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/j100184a052"
+url_source: ""
 url_video: ""
 ---

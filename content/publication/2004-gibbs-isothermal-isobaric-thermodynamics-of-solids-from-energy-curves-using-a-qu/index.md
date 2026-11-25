@@ -2,7 +2,7 @@
 title: "GIBBS: isothermal-isobaric thermodynamics of solids from energy curves using a quasi-harmonic Debye model"
 authors:
 - M.A. Blanco
-- E. Francisco
+- evelio-francisco
 - V. Luaña
 date: "2004-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:41:39Z"
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1016/j.comphy.2003.12.001"
+url_source: ""
 url_video: ""
 ---

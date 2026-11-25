@@ -4,8 +4,8 @@ authors:
 - Eduardo Romero-Montalvo
 - José Manuel Guevara-Vela
 - Wilmer Esteban Vallejo Narváez
-- Aurora Costales
-- Ángel Martín Pendás
+- aurora-costales
+- angel-pendas
 - Marcos Hernández-Rodríguez
 - Tomás Rocha-Rinza
 date: "2017-01-01T00:00:00Z"
@@ -21,6 +21,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1039/c6cc09616f"
+url_source: ""
 url_video: ""
 ---

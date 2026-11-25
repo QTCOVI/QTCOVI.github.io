@@ -4,7 +4,7 @@ authors:
 - Kai-hua Xiang
 - Ravindra Pandey
 - J. M. Recio
-- E. Francisco
+- evelio-francisco
 - John M. Newsam
 date: "2000-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:41:48Z"
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/jp990171u"
+url_source: ""
 url_video: ""
 ---

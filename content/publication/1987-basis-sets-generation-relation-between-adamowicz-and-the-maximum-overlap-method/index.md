@@ -1,7 +1,7 @@
 ---
 title: "BASIS-SETS GENERATION - RELATION BETWEEN ADAMOWICZ AND THE MAXIMUM OVERLAP METHOD"
 authors:
-- E. Francisco
+- evelio-francisco
 - L. Seijo
 - L. Pueyo
 date: "1987-01-01T00:00:00Z"
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1002/qua.560310208"
+url_source: ""
 url_video: ""
 ---

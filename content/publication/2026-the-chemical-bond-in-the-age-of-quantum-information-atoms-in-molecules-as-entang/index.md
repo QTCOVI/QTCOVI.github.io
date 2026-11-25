@@ -1,10 +1,9 @@
 ---
 title: "The Chemical Bond in the Age of Quantum Information: Atoms in Molecules as Entangled Open Systems"
 authors:
-- D. J. L. Rodrigues
-- E. Francisco
-- A. Martín Pendás
-- Ángel Martín Pendás
+- diogo-rodrigues
+- evelio-francisco
+- angel-pendas
 date: "2026-01-01T00:00:00Z"
 publishDate: "2026-10-12T11:25:14Z"
 publication_types: ["article"]
@@ -18,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.26434/chemrxiv.15010244/v1"
+url_source: ""
 url_video: ""
 ---

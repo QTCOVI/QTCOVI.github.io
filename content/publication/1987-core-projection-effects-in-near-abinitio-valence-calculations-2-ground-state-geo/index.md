@@ -3,7 +3,7 @@ title: "CORE PROJECTION EFFECTS IN NEAR-ABINITIO VALENCE CALCULATIONS .2. GROUND
 authors:
 - V. Luaña
 - G.Fernández Rodrigo
-- E. Francisco
+- evelio-francisco
 - L. Pueyo
 - M. Bermejo
 date: "1987-01-01T00:00:00Z"
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1016/0022-4596(87)90196-4"
+url_source: ""
 url_video: ""
 ---

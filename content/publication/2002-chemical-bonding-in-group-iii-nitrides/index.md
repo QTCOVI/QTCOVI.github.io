@@ -1,9 +1,9 @@
 ---
 title: "Chemical Bonding in Group III Nitrides"
 authors:
-- Aurora Costales
+- aurora-costales
 - Miguel A. Blanco
-- Ángel Martín Pendás
+- angel-pendas
 - Anil K. Kandalam
 - Ravindra Pandey
 date: "2002-01-01T00:00:00Z"
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/ja017380o"
+url_source: ""
 url_video: ""
 ---

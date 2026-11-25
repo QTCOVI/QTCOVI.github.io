@@ -2,7 +2,7 @@
 title: "Critical assessment of the x-ray restrained wave function approach: Advantages, drawbacks, and perspectives for density functional theory and periodic ab initio calculations"
 authors:
 - Alessandro Genoni
-- Ángel Martín Pendás
+- angel-pendas
 date: "2024-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:37:24Z"
 publication_types: ["article-journal"]
@@ -16,6 +16,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1063/5.0213247"
+url_source: ""
 url_video: ""
 ---

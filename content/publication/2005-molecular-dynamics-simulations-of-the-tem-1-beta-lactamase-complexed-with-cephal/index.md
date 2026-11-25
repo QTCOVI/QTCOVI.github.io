@@ -1,8 +1,8 @@
 ---
 title: "Molecular dynamics simulations of the TEM-1,beta-lactamase complexed with cephalothin"
 authors:
-- Natalia Díaz
-- Dimas Suárez
+- natalia-diaz
+- dimas-suarez
 - Kenneth M. Merz,
 - Tomás L. Sordo
 date: "2005-01-01T00:00:00Z"
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/jm0493663"
+url_source: ""
 url_video: ""
 ---

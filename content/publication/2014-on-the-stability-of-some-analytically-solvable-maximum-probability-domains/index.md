@@ -2,7 +2,7 @@
 title: "On the stability of some analytically solvable maximum probability domains"
 authors:
 - M. Menéndez
-- A. Martín Pendás
+- angel-pendas
 date: "2014-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:39:19Z"
 publication_types: ["article-journal"]
@@ -16,6 +16,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1007/s00214-014-1539-9"
+url_source: ""
 url_video: ""
 ---

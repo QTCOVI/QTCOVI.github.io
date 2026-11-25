@@ -1,7 +1,7 @@
 ---
 title: "On the origin of the endo/exo selectivity in Diels-Alder reactions"
 authors:
-- D. Suárez
+- dimas-suarez
 - J. A. Sordo
 date: "1998-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:44:54Z"
@@ -16,6 +16,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1039/a707086a"
+url_source: ""
 url_video: ""
 ---

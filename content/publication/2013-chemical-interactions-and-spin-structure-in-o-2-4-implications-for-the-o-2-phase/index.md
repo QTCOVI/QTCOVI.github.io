@@ -2,8 +2,8 @@
 title: "Chemical Interactions and Spin Structure in (O 2 ) 4 : Implications for the ε-O 2 Phase"
 authors:
 - M. A. García-Revilla
-- E. Francisco
-- A. Martín Pendás
+- evelio-francisco
+- angel-pendas
 - J. M. Recio
 - M. Bartolomei
 - M. I. Hernández
@@ -23,6 +23,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/ct301070f"
+url_source: ""
 url_video: ""
 ---

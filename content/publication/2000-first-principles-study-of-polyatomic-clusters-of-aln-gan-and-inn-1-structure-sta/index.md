@@ -4,7 +4,7 @@ authors:
 - Anil K. Kandalam
 - Ravindra Pandey
 - M. A. Blanco
-- Aurora Costales
+- aurora-costales
 - J. M. Recio
 - John M. Newsam
 date: "2000-01-01T00:00:00Z"
@@ -20,6 +20,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/jp994308s"
+url_source: ""
 url_video: ""
 ---

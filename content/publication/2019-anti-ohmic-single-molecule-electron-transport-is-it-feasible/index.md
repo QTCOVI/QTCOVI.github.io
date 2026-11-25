@@ -3,8 +3,8 @@ title: "Anti-ohmic single molecule electron transport: is it feasible?"
 authors:
 - Sara Gil-Guerrero
 - Nicolás Ramos-Berdullas
-- Ángel Martín Pendás
-- Evelio Francisco
+- angel-pendas
+- evelio-francisco
 - Marcos Mandado
 date: "2019-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:38:25Z"
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1039/c8na00384j"
+url_source: ""
 url_video: ""
 ---

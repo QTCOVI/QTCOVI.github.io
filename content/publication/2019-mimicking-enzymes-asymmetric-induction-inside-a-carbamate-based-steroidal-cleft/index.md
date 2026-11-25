@@ -5,8 +5,8 @@ authors:
 - Judith Martín
 - Miguel Gallegos
 - Noé Fanjul-Mosteirín
-- Aurora Costales
-- Ángel Martín Pendás
+- aurora-costales
+- angel-pendas
 - Vicente del Amo
 date: "2019-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:42:22Z"
@@ -21,6 +21,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/acs.orglett.9b01170"
+url_source: ""
 url_video: ""
 ---

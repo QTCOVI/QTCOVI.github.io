@@ -2,9 +2,9 @@
 title: "Ions in crystals: The topology of the electron density in ionic materials. 4. The danburite (CaB2Si2O8) case and the occurrence of oxide-oxide bond paths in crystals"
 authors:
 - Victor Luaña
-- Aurora Costales
+- aurora-costales
 - Paula Mori-Sánchez
-- A. Martín Pendás
+- angel-pendas
 date: "2003-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:42:43Z"
 publication_types: ["article-journal"]
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/jp022374f"
+url_source: ""
 url_video: ""
 ---

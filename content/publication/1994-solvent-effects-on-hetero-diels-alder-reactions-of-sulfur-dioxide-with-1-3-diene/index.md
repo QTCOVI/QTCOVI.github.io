@@ -1,7 +1,7 @@
 ---
 title: "SOLVENT EFFECTS ON HETERO-DIELS-ALDER REACTIONS OF SULFUR-DIOXIDE WITH 1,3-DIENES"
 authors:
-- D. Suárez
+- dimas-suarez
 - X. Assfeld
 - Javier González
 - M. F. Ruiz-López
@@ -20,6 +20,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1039/c39940001683"
+url_source: ""
 url_video: ""
 ---

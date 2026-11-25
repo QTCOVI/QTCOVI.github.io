@@ -2,7 +2,7 @@
 title: "Computation of Local and Global Properties of the Electron Localization Function Topology in Crystals."
 authors:
 - J. Contreras-García
-- A. Martín Pendás
+- angel-pendas
 - J. M. Recio
 - B. Silvi
 date: "2009-01-01T00:00:00Z"
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/ct800420n"
+url_source: ""
 url_video: ""
 ---

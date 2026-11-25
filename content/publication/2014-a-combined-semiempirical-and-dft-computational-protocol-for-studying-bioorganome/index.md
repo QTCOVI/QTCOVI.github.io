@@ -1,8 +1,8 @@
 ---
 title: "A Combined Semiempirical and DFT Computational Protocol for Studying Bioorganometallic Complexes: Application to Molybdocene-Cysteine Complexes"
 authors:
-- Dimas Suárez
-- Natalia Díaz
+- dimas-suarez
+- natalia-diaz
 - Ramón López
 date: "2014-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:43:36Z"
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1002/jcc.23503"
+url_source: ""
 url_video: ""
 ---

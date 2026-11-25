@@ -3,8 +3,8 @@ title: "Theoretical study of the coordination of the Cr3+ ion in alpha-Al2O3"
 authors:
 - R. Franco
 - J. M. Recio
-- A. Martín Pendas
-- E. Francisco
+- angel-pendas
+- evelio-francisco
 - V. Luaña
 - L. Pueyo
 date: "1995-01-01T00:00:00Z"
@@ -20,6 +20,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1080/10420159508227196"
+url_source: ""
 url_video: ""
 ---

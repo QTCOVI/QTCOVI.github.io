@@ -1,8 +1,8 @@
 ---
 title: "Pentafluoroorthotellurate Uncovered: Theoretical Perspectives on an Extremely Electronegative Group"
 authors:
-- Daniel Barrena-Espés
-- Ángel Martín Pendás
+- daniel-barrena
+- angel-pendas
 - Sebastian Riedel
 - Alberto Pérez-Bitrián
 - Julen Munárriz
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/acs.inorgchem.4c04603"
+url_source: ""
 url_video: ""
 ---

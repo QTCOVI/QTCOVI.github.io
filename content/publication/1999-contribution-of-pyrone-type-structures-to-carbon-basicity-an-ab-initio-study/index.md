@@ -1,7 +1,7 @@
 ---
 title: "Contribution of pyrone-type structures to carbon basicity: An ab initio study"
 authors:
-- Dimas Suárez
+- dimas-suarez
 - J. Angel Menéndez
 - Enrique Fuente
 - Miguel A. Montes-Morán
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/la9811259"
+url_source: ""
 url_video: ""
 ---

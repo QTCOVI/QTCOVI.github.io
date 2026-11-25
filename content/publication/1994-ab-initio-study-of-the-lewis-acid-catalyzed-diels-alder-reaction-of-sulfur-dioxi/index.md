@@ -1,7 +1,7 @@
 ---
 title: "AB-INITIO STUDY OF THE LEWIS ACID-CATALYZED DIELS-ALDER REACTION OF SULFUR-DIOXIDE WITH ISOPRENE - REGIOSELECTIVITY AND STEREOSELECTIVITY"
 authors:
-- D. Suarez
+- dimas-suarez
 - T. L. Sordo
 - J. A. Sordo
 date: "1994-01-01T00:00:00Z"
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/ja00081a045"
+url_source: ""
 url_video: ""
 ---

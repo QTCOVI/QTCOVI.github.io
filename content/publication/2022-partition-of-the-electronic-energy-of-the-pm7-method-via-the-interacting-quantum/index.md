@@ -3,8 +3,8 @@ title: "Partition of the electronic energy of the PM7 method via the interacting
 authors:
 - Hugo Salazar-Lozas
 - José Manuel Guevara-Vela
-- Ángel Martín Pendás
-- Evelio Francisco
+- angel-pendas
+- evelio-francisco
 - Tomás Rocha-Rinza
 date: "2022-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:37:47Z"
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1039/d2cp02013k"
+url_source: ""
 url_video: ""
 ---

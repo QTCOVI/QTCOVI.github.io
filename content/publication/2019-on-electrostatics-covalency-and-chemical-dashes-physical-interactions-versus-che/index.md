@@ -1,9 +1,9 @@
 ---
 title: "On Electrostatics, Covalency, and Chemical Dashes: Physical Interactions versus Chemical Bonds"
 authors:
-- Angel Martin Pendás
+- angel-pendas
 - Jose Luis Casals‐Sainz
-- Evelio Francisco
+- evelio-francisco
 date: "2019-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:38:22Z"
 publication_types: ["article-journal"]
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1002/chem.201804160"
+url_source: ""
 url_video: ""
 ---

@@ -2,7 +2,7 @@
 title: "Beyond the molecular orbital conception of electronically excited states through the quantum theory of atoms in molecules"
 authors:
 - David Ferro-Costas
-- Ángel Martín Pendás
+- angel-pendas
 - Leticia González
 - Ricardo A. Mosquera
 date: "2014-01-01T00:00:00Z"
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1039/c4cp00431k"
+url_source: ""
 url_video: ""
 ---

@@ -3,7 +3,7 @@ title: "ANACAL - A PROGRAM TO CARRY OUT A CONFIGURATIONAL ANALYSIS OF THE WAVE-F
 authors:
 - R. López
 - M.I. Menéndez
-- D. Suárez
+- dimas-suarez
 - T.L. Sordo
 - J.A. Sordo
 date: "1993-01-01T00:00:00Z"
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1016/0010-4655(93)90135-y"
+url_source: ""
 url_video: ""
 ---

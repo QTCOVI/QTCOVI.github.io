@@ -1,10 +1,10 @@
 ---
 title: "Hirshfeld surfaces as approximations to interatomic surfaces"
 authors:
-- A. Martı́n Pendás
+- angel-pendas
 - V. Luaña
 - L. Pueyo
-- E. Francisco
+- evelio-francisco
 - P. Mori-Sánchez
 date: "2002-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:41:44Z"
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1063/1.1483851"
+url_source: ""
 url_video: ""
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Conformational properties of penicillins: Quantum chemical calculations and molecular dynamics simulations of benzylpenicillin"
 authors:
-- Natalia Díaz
-- Dimas Suárez
+- natalia-diaz
+- dimas-suarez
 - Tomás L. Sordo
 date: "2003-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:44:20Z"
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1002/jcc.10350"
+url_source: ""
 url_video: ""
 ---

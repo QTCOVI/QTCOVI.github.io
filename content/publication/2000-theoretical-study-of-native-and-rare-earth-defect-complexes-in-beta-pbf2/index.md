@@ -2,7 +2,7 @@
 title: "Theoretical study of native and rare-earth defect complexes in beta-PbF2"
 authors:
 - Huitian Jiang
-- Aurora Costales
+- aurora-costales
 - Miguel A. Blanco
 - Mu Gu
 - Ravindra Pandey
@@ -20,6 +20,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1103/physrevb.62.803"
+url_source: ""
 url_video: ""
 ---

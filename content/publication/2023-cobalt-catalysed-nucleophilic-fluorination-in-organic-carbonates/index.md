@@ -2,7 +2,7 @@
 title: "Cobalt-catalysed nucleophilic fluorination in organic carbonates"
 authors:
 - Susana García-Abellán
-- Daniel Barrena-Espés
+- daniel-barrena
 - Julen Munarriz
 - Vincenzo Passarelli
 - Manuel Iglesias
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1039/d3dt00731f"
+url_source: ""
 url_video: ""
 ---

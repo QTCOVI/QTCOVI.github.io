@@ -1,7 +1,7 @@
 ---
 title: "Anomeric effect in 1,3-dioxole: A theoretical study"
 authors:
-- D. Suárez
+- dimas-suarez
 - T. L. Sordo
 - J. A. Sordo
 date: "1996-01-01T00:00:00Z"
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/ja950735h"
+url_source: ""
 url_video: ""
 ---

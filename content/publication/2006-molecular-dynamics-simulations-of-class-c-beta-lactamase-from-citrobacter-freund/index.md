@@ -1,8 +1,8 @@
 ---
 title: "Molecular dynamics simulations of class C beta-lactamase from Citrobacter freundii: Insights into the base catalyst for acylation"
 authors:
-- Natalia Díaz
-- Dimas Suárez
+- natalia-diaz
+- dimas-suarez
 - Tomás L. Sordo
 date: "2006-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:44:07Z"
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/bi051600j"
+url_source: ""
 url_video: ""
 ---

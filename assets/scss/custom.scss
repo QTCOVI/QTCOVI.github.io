@@ -32,3 +32,52 @@
 .dark .article-header-caption {
   color: #adb5bd;
 }
+
+// Publications: year headings between entries.
+.pub-year-heading h2 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: #1565c0;
+  border-bottom: 2px solid #e3f2fd;
+  padding-bottom: 0.25rem;
+  margin: 1.8rem 0 0.8rem;
+}
+
+// Group members in author lists.
+.author-highlighted {
+  font-weight: 600;
+}
+
+// Mobile navbar: show the short name so it does not run under the menu and search buttons.
+@media (max-width: 991.98px) {
+  .navbar-brand-mobile-wrapper .navbar-brand {
+    font-size: 0;
+  }
+  .navbar-brand-mobile-wrapper .navbar-brand::after {
+    content: "QTCOVI";
+    font-size: 1.25rem;
+  }
+}
+
+// Homepage highlights: three compact cards side by side on wide screens.
+@media (min-width: 992px) {
+  #highlights .row > .col-12:not(.section-heading) {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+    align-items: start;
+  }
+  #highlights .view-card {
+    margin: 0;
+  }
+  #highlights .article-banner {
+    height: 200px;
+  }
+  #highlights .article-title {
+    font-size: 1.05rem;
+    line-height: 1.35;
+  }
+  #highlights .article-style {
+    font-size: 0.9rem;
+  }
+}

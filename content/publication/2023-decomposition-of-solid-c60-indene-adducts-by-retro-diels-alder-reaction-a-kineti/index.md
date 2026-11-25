@@ -1,7 +1,7 @@
 ---
 title: "Decomposition of solid C60–indene adducts by retro Diels Alder reaction – A kinetic and thermodynamic study"
 authors:
-- Diogo J.L. Rodrigues
+- diogo-rodrigues
 - Inês B.O.M. Pina
 - Luís M.N.B.F. Santos
 - Carlos F.R.A.C. Lima
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1016/j.diamond.2023.110031"
+url_source: ""
 url_video: ""
 ---

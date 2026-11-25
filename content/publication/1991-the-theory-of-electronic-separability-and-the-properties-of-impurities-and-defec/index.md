@@ -1,7 +1,7 @@
 ---
 title: "The theory of electronic separability and the properties of impurities and defects in ionic crystals"
 authors:
-- Angel M. Pendás
+- angel-pendas
 - Victor Luaña
 - L. Pueyo
 date: "1991-01-01T00:00:00Z"
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1080/10420159108224917"
+url_source: ""
 url_video: ""
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Insights into the base catalysis exerted by the DD-transpeptidase from Streptomyces K15: A molecular dynamics study"
 authors:
-- Natalia Díaz
+- natalia-diaz
 - Tomás L. Sordo
-- Dimas Suárez
+- dimas-suarez
 date: "2005-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:44:11Z"
 publication_types: ["article-journal"]
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/bi048193g"
+url_source: ""
 url_video: ""
 ---

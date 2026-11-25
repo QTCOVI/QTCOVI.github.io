@@ -3,8 +3,8 @@ title: "Interacting Quantum Atoms Method for Crystalline Solids"
 authors:
 - Daniel Menéndez Crespo
 - Frank Richard Wagner
-- Evelio Francisco
-- Ángel Martín Pendás
+- evelio-francisco
+- angel-pendas
 - Yuri Grin
 - Miroslav Kohout
 date: "2021-01-01T00:00:00Z"
@@ -20,6 +20,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/acs.jpca.1c06574"
+url_source: ""
 url_video: ""
 ---

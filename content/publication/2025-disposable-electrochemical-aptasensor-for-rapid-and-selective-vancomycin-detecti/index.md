@@ -4,8 +4,8 @@ authors:
 - Magdolna Casian
 - Oana Hosu-Stancioiu
 - Ioana Manea
-- Dimas Suárez
-- Natalia Díaz
+- dimas-suarez
+- natalia-diaz
 - María Jesús Lobo Castañón
 - Noemí de-los-Santos-Álvarez
 - Cecilia Cristea
@@ -22,6 +22,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1016/j.aca.2025.344519"
+url_source: ""
 url_video: ""
 ---

@@ -3,7 +3,7 @@ title: "The Nature of the Interaction of Organoselenium Molecules with Diiodine"
 authors:
 - Timur I. Madzhidov
 - Galina A. Chmutova
-- Ángel Martín Pendás
+- angel-pendas
 date: "2011-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:39:42Z"
 publication_types: ["article-journal"]
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/jp2056078"
+url_source: ""
 url_video: ""
 ---

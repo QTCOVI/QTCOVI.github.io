@@ -2,8 +2,8 @@
 title: "Topological Analysis of Chemical Bonding in Cyclophosphazenes"
 authors:
 - Victor Luaña
-- A. Martin Pendás
-- Aurora Costales
+- angel-pendas
+- aurora-costales
 - Gabino A. Carriedo
 - Francisco J. García-Alonso
 date: "2001-01-01T00:00:00Z"
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/jp0044577"
+url_source: ""
 url_video: ""
 ---

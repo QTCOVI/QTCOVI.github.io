@@ -2,7 +2,7 @@
 title: "Useful applications of the electron localization function in high-pressure crystal chemistry"
 authors:
 - Julia Contreras-García
-- Ángel Martín Pendás
+- angel-pendas
 - Bernard Silvi
 - J. Manuel Recio
 date: "2008-01-01T00:00:00Z"
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1016/j.jpcs.2008.03.028"
+url_source: ""
 url_video: ""
 ---

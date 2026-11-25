@@ -1,8 +1,8 @@
 ---
 title: "Bond Paths as Privileged Exchange Channels"
 authors:
-- A. Martín Pendás
-- Evelio Francisco
+- angel-pendas
+- evelio-francisco
 - Miguel A. Blanco
 - Carlo Gatti
 date: "2007-01-01T00:00:00Z"
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1002/chem.200700408"
+url_source: ""
 url_video: ""
 ---

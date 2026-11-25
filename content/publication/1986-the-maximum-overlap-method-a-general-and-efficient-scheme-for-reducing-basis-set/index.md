@@ -1,7 +1,7 @@
 ---
 title: "THE MAXIMUM OVERLAP METHOD - A GENERAL AND EFFICIENT SCHEME FOR REDUCING BASIS-SETS - APPLICATION TO THE GENERATION OF APPROXIMATE AOS FOR THE 3D TRANSITION-METAL ATOMS AND IONS"
 authors:
-- E. Francisco
+- evelio-francisco
 - L. Seijo
 - L. Pueyo
 date: "1986-01-01T00:00:00Z"
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1016/0022-4596(86)90196-9"
+url_source: ""
 url_video: ""
 ---

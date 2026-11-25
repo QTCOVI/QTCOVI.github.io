@@ -1,8 +1,8 @@
 ---
 title: "The role of references and the elusive nature of the chemical bond"
 authors:
-- Ángel Martín Pendás
-- Evelio Francisco
+- angel-pendas
+- evelio-francisco
 date: "2022-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:37:38Z"
 publication_types: ["article-journal"]
@@ -16,6 +16,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1038/s41467-022-31036-6"
+url_source: ""
 url_video: ""
 ---

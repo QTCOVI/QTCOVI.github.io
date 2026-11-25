@@ -3,8 +3,8 @@ title: "Chemical Information From the Ehrenfest Force Field Based on Reduced Den
 authors:
 - A. J. Mortera‐Carbonell
 - J. Hernández‐Trujillo
-- E. Francisco
-- A. Martín Pendás
+- evelio-francisco
+- angel-pendas
 date: "2026-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:37:04Z"
 publication_types: ["article-journal"]
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1002/jcc.70331"
+url_source: ""
 url_video: ""
 ---

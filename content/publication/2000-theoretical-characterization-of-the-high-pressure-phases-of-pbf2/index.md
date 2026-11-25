@@ -1,7 +1,7 @@
 ---
 title: "Theoretical characterization of the high-pressure phases of PbF2"
 authors:
-- Aurora Costales
+- aurora-costales
 - M. A. Blanco
 - Ravindra Pandey
 - J. M. Recio
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1103/physrevb.61.11359"
+url_source: ""
 url_video: ""
 ---

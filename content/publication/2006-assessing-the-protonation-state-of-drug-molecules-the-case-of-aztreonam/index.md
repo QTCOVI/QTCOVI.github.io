@@ -1,9 +1,9 @@
 ---
 title: "Assessing the protonation state of drug molecules: The case of aztreonam"
 authors:
-- Natalia Díaz
+- natalia-diaz
 - Tomás L. Sordo
-- Dimas Suárez
+- dimas-suarez
 - Rosa Méndez
 - Javier Martín Villacorta
 - Luis Simón
@@ -22,6 +22,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/jm060096t"
+url_source: ""
 url_video: ""
 ---

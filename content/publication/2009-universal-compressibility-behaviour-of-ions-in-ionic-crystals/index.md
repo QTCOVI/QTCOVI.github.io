@@ -4,7 +4,7 @@ authors:
 - M. Taravillo
 - E. del Corro
 - J. Contreras-García
-- A. Martín Pendás
+- angel-pendas
 - M. Flórez
 - J. M. Recio
 - V. G. Baonza
@@ -21,6 +21,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1080/08957950802552127"
+url_source: ""
 url_video: ""
 ---

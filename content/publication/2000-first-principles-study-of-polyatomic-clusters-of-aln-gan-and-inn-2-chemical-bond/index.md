@@ -1,9 +1,9 @@
 ---
 title: "First principles study of polyatomic clusters of AlN, GaN, and InN. 2. Chemical bonding"
 authors:
-- Aurora Costales
+- aurora-costales
 - Anil K. Kandalam
-- A. Martín Pendás
+- angel-pendas
 - M. A. Blanco
 - J. M. Recio
 - Ravindra Pandey
@@ -20,6 +20,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/jp994309k"
+url_source: ""
 url_video: ""
 ---

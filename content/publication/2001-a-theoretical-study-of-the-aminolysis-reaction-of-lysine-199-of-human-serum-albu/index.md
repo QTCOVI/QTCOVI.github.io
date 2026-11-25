@@ -1,8 +1,8 @@
 ---
 title: "A theoretical study of the aminolysis reaction of lysine 199 of human serum albumin with benzylpenicillin: Consequences for immunochemistry of penicillins"
 authors:
-- Natalia Díaz
-- Dimas Suárez
+- natalia-diaz
+- dimas-suarez
 - Tomás L. Sordo
 - Kenneth M. Merz
 date: "2001-01-01T00:00:00Z"
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/ja010332j"
+url_source: ""
 url_video: ""
 ---

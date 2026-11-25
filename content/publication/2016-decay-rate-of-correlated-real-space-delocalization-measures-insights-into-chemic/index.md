@@ -3,7 +3,7 @@ title: "Decay Rate of Correlated Real-Space Delocalization Measures: Insights in
 authors:
 - A. Gallo-Bueno
 - M. Kohout
-- A. Martı́n Pendás
+- angel-pendas
 date: "2016-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:39:01Z"
 publication_types: ["article-journal"]
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/acs.jctc.6b00139"
+url_source: ""
 url_video: ""
 ---

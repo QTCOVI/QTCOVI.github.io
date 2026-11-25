@@ -1,8 +1,8 @@
 ---
 title: "Local spin of atoms in molecules: relation to electron localization and delocalization"
 authors:
-- Ángel Martín Pendás
-- Evelio Francisco
+- angel-pendas
+- evelio-francisco
 - Aldo J. Mortera-Carbonell
 - Jesús Jara-Cortés
 - Jesús Hernández-Trujillo
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1007/s11224-026-02732-6"
+url_source: ""
 url_video: ""
 ---

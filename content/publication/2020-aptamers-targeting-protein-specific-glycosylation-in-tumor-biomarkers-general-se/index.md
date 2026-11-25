@@ -3,8 +3,8 @@ title: "Aptamers targeting protein-specific glycosylation in tumor biomarkers: g
 authors:
 - Ana Díaz-Fernández
 - Rebeca Miranda-Castro
-- Natalia Díaz
-- Dimas Suárez
+- natalia-diaz
+- dimas-suarez
 - Noemí de-los-Santos-Álvarez
 - M. Jesús Lobo-Castañón
 date: "2020-01-01T00:00:00Z"
@@ -20,6 +20,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1039/d0sc00209g"
+url_source: ""
 url_video: ""
 ---

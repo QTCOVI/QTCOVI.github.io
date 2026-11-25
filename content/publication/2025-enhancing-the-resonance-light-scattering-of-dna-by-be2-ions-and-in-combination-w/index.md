@@ -2,9 +2,9 @@
 title: "Enhancing the resonance light scattering of DNA by Be2+ ions and in combination with other metals"
 authors:
 - F.J. Pereira
-- N. Díaz
+- natalia-diaz
 - R. López
-- D. Suárez
+- dimas-suarez
 - A.M. Juárez
 - A.J. Aller
 date: "2025-01-01T00:00:00Z"
@@ -20,6 +20,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1016/j.inoche.2025.115013"
+url_source: ""
 url_video: ""
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Molecular Modeling of Bioorganometallic Compounds: Thermodynamic Properties of Molybdocene-Glutathione Complexes and Mechanism of Peptide Hydrolysis"
 authors:
-- Dimas Suárez
-- Natalia Díaz
+- dimas-suarez
+- natalia-diaz
 date: "2015-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:43:35Z"
 publication_types: ["article-journal"]
@@ -16,6 +16,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1002/cphc.201500169"
+url_source: ""
 url_video: ""
 ---

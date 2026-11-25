@@ -2,9 +2,9 @@
 title: "Real‐Space In Situ Bond Energies: Toward A Consistent Energetic Definition of Bond Strength"
 authors:
 - Daniel Menéndez‐Crespo
-- Aurora Costales
-- Evelio Francisco
-- Ángel Martín Pendás
+- aurora-costales
+- evelio-francisco
+- angel-pendas
 date: "2018-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:38:35Z"
 publication_types: ["article-journal"]
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1002/chem.201800979"
+url_source: ""
 url_video: ""
 ---

@@ -6,8 +6,8 @@ authors:
 - Marco García‐Revilla
 - Jesús Hernández‐Trujillo
 - Ove Christiansen
-- Evelio Francisco
-- Ángel Martín Pendás
+- evelio-francisco
+- angel-pendas
 - Tomás Rocha‐Rinza
 date: "2013-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:39:27Z"
@@ -22,6 +22,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1002/chem.201300656"
+url_source: ""
 url_video: ""
 ---

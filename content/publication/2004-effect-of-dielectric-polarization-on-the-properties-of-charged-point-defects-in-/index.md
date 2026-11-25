@@ -8,7 +8,7 @@ authors:
 - R Pandey
 - H Jiang
 - M A Blanco
-- A Costales
+- aurora-costales
 - Q C Qiu
 - Y Xu
 date: "2004-01-01T00:00:00Z"
@@ -24,6 +24,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1088/0953-8984/16/20/008"
+url_source: ""
 url_video: ""
 ---

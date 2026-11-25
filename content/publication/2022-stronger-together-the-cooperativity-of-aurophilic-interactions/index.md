@@ -4,7 +4,7 @@ authors:
 - José Manuel Guevara-Vela
 - Kristopher Hess
 - Tomás Rocha-Rinza
-- Ángel Martín Pendás
+- angel-pendas
 - Marcos Flores-Álamo
 - Guillermo Moreno-Alcántar
 date: "2022-01-01T00:00:00Z"
@@ -20,6 +20,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1039/d1cc05241a"
+url_source: ""
 url_video: ""
 ---

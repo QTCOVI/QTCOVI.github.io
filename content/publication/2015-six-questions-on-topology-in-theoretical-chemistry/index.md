@@ -15,7 +15,7 @@ authors:
 - Simon Grabowsky
 - Paolo Lazzeretti
 - Piero Macchi
-- Ángel Martín Pendás
+- angel-pendas
 - Paul L.A. Popelier
 - Klaus Ruedenberg
 - Henry Rzepa
@@ -39,6 +39,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1016/j.comptc.2014.09.028"
+url_source: ""
 url_video: ""
 ---

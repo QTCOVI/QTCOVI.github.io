@@ -3,7 +3,7 @@ title: "pH-dependent structural changes of arsenic oxoacids in solution and soli
 authors:
 - F.J. Pereira
 - R. López
-- D. Suárez
+- dimas-suarez
 - A.J. Aller
 date: "2022-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:43:17Z"
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1016/j.microc.2021.107109"
+url_source: ""
 url_video: ""
 ---

@@ -4,7 +4,7 @@ authors:
 - Marcos López-Aguilar
 - Nicolás Ríos-Lombardía
 - Miguel Gallegos
-- Daniel Barrena-Espés
+- daniel-barrena
 - Joaquín García-Álvarez
 - Carmen Concellón
 - Vicente del Amo
@@ -21,6 +21,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1039/d4cc05154h"
+url_source: ""
 url_video: ""
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Molecular dynamics study of the IIA binding site in human serum albumin: Influence of the protonation state of Lys195 and Lys199"
 authors:
-- Natalia Díaz
-- Dimas Suárez
+- natalia-diaz
+- dimas-suarez
 - Tomás L. Sordo
 - Kenneth M. Merz
 date: "2001-01-01T00:00:00Z"
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/jm000340v"
+url_source: ""
 url_video: ""
 ---

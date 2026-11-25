@@ -2,7 +2,7 @@
 title: "THEORETICAL-STUDY OF THE GAS-PHASE ADDITION OF HF AND HCL TO ETHYLENE - ANALYSIS OF THE CATALYTIC ACTION OF DIMERIC HALIDES"
 authors:
 - M. I. Menéndez
-- D. Suárez
+- dimas-suarez
 - J. A. Sordo
 - T. L. Sordo
 date: "1995-01-01T00:00:00Z"
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1002/jcc.540160602"
+url_source: ""
 url_video: ""
 ---

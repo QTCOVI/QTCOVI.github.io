@@ -3,7 +3,7 @@ title: "Unusual substituent effects on the bonding of iminoboranes"
 authors:
 - Otilia Mó
 - Manuel Yáñez
-- Angel Martín Pendás
+- angel-pendas
 - Janet E. Del Bene
 - Ibon Alkorta
 - José Elguero
@@ -20,6 +20,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1039/b702480k"
+url_source: ""
 url_video: ""
 ---

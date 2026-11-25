@@ -27,7 +27,7 @@ social:
 
 email: ''
 
-highlight_name: false
+highlight_name: true
 
 user_groups:
   - Alumni

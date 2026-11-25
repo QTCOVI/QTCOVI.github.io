@@ -2,8 +2,8 @@
 title: "Donor–Acceptor Strength from the Real-Space-Partitioning of One Particle Transition Density Matrix"
 authors:
 - Ismael Vargas-Rodríguez
-- Ángel Martín Pendás
-- Evelio Francisco Miguelez
+- angel-pendas
+- evelio-francisco
 - Adán Bazán-Jiménez
 - Juvencio Robles
 - Itzel Mercado-Sánchez
@@ -24,6 +24,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/acs.jpca.6c01932"
+url_source: ""
 url_video: ""
 ---

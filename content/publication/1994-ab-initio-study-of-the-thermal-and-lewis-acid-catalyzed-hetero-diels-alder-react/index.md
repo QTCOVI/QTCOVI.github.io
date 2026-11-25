@@ -1,7 +1,7 @@
 ---
 title: "AB-INITIO STUDY OF THE THERMAL AND LEWIS ACID-CATALYZED HETERO-DIELS-ALDER REACTIONS OF 1,3-BUTADIENE AND ISOPRENE WITH SULFUR-DIOXIDE"
 authors:
-- D. Suarez
+- dimas-suarez
 - J. Gonzalez
 - T. L. Sordo
 - J. A. Sordo
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/jo00105a023"
+url_source: ""
 url_video: ""
 ---

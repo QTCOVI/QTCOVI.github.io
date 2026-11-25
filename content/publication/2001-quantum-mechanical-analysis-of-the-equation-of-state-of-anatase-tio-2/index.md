@@ -4,8 +4,8 @@ authors:
 - M. Calatayud
 - P. Mori-Sánchez
 - A. Beltrán
-- A. Martín Pendás
-- E. Francisco
+- angel-pendas
+- evelio-francisco
 - J. Andrés
 - J. M. Recio
 date: "2001-01-01T00:00:00Z"
@@ -21,6 +21,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1103/physrevb.64.184113"
+url_source: ""
 url_video: ""
 ---

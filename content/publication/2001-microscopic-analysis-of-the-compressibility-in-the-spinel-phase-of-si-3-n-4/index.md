@@ -3,7 +3,7 @@ title: "Microscopic analysis of the compressibility in the spinel phase of Si 3 
 authors:
 - P Mori-Sánchez
 - R Franco
-- A. Martín Pendás
+- angel-pendas
 - V Luaña
 - J. M Recio
 date: "2001-01-01T00:00:00Z"
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1209/epl/i2001-00319-x"
+url_source: ""
 url_video: ""
 ---

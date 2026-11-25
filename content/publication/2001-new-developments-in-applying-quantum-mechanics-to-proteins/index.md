@@ -2,7 +2,7 @@
 title: "New developments in applying quantum mechanics to proteins"
 authors:
 - Valentin Gogonea
-- Dimas Suárez
+- dimas-suarez
 - Arjan van der Vaart
 - Kenneth M Merz
 date: "2001-01-01T00:00:00Z"
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1016/s0959-440x(00)00193-7"
+url_source: ""
 url_video: ""
 ---

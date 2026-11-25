@@ -1,9 +1,9 @@
 ---
 title: "Electron number distribution functions with iterative Hirshfeld atoms"
 authors:
-- E. Francisco
-- A. Martín Pendás
-- Aurora Costales
+- evelio-francisco
+- angel-pendas
+- aurora-costales
 - Marco García-Revilla
 date: "2011-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:39:36Z"
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1016/j.comptc.2011.04.003"
+url_source: ""
 url_video: ""
 ---

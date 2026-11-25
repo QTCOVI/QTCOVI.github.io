@@ -1,9 +1,9 @@
 ---
 title: "Universal Features of the Topological Bond Properties of the Electron Density"
 authors:
-- Aurora Costales
+- aurora-costales
 - M. A. Blanco
-- A. Martín Pendás
+- angel-pendas
 - Paula Mori-Sánchez
 - Víctor Luaña
 date: "2004-01-01T00:00:00Z"
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/jp037627z"
+url_source: ""
 url_video: ""
 ---

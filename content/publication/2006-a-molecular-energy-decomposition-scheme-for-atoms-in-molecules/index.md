@@ -1,8 +1,8 @@
 ---
 title: "A Molecular Energy Decomposition Scheme for Atoms in Molecules"
 authors:
-- E. Francisco
-- A. Martín Pendás
+- evelio-francisco
+- angel-pendas
 - M. A. Blanco
 date: "2006-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:40:15Z"
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/ct0502209"
+url_source: ""
 url_video: ""
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Two-electron integrations in the quantum theory of atoms in molecules."
 authors:
-- A. Martı́n Pendás
+- angel-pendas
 - M. A. Blanco
-- E. Francisco
+- evelio-francisco
 date: "2004-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:40:25Z"
 publication_types: ["article-journal"]
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1063/1.1645788"
+url_source: ""
 url_video: ""
 ---

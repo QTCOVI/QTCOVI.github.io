@@ -2,8 +2,8 @@
 title: "Revisiting the carbonyl n → π* electronic excitation through topological eyes: expanding, enriching and enhancing the chemical language using electron number distribution functions and domain averaged Fermi holes."
 authors:
 - David Ferro-Costas
-- Evelio Francisco
-- Ángel Martín Pendás
+- evelio-francisco
+- angel-pendas
 - Ricardo A. Mosquera
 date: "2015-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:39:06Z"
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1039/c5cp02847g"
+url_source: ""
 url_video: ""
 ---

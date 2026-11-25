@@ -1,9 +1,9 @@
 ---
 title: "Universal-binding-energy relations across the rock-salt–cesium chloride phase transition in alkali halides"
 authors:
-- A. Martín Pendás
+- angel-pendas
 - J. M. Recio
-- E. Francisco
+- evelio-francisco
 - V. Luaña
 date: "1997-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:40:53Z"
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1103/physrevb.56.3010"
+url_source: ""
 url_video: ""
 ---

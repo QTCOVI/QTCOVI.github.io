@@ -1,8 +1,8 @@
 ---
 title: "Exact versus truncated spectrally resolved exchange in ab initio calculations"
 authors:
-- A. Martín Pendás
-- E. Francisco
+- angel-pendas
+- evelio-francisco
 - J. M. Recio
 date: "1992-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:41:10Z"
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1063/1.463590"
+url_source: ""
 url_video: ""
 ---

@@ -5,7 +5,7 @@ authors:
 - J. M. Recio
 - Bernard Silvi
 - C. Sousa
-- A. Martín Pendás
+- angel-pendas
 - Víctor Luaña
 - F. Illas
 date: "2002-01-01T00:00:00Z"
@@ -21,6 +21,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1103/physrevb.66.075103"
+url_source: ""
 url_video: ""
 ---

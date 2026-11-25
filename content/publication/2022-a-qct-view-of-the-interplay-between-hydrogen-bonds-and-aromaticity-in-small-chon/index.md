@@ -2,10 +2,10 @@
 title: "A QCT View of the Interplay between Hydrogen Bonds and Aromaticity in Small CHON Derivatives"
 authors:
 - Miguel Gallegos
-- Daniel Barrena-Espés
+- daniel-barrena
 - José Manuel Guevara-Vela
 - Tomás Rocha-Rinza
-- Ángel Martín Pendás
+- angel-pendas
 date: "2022-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:37:36Z"
 publication_types: ["article-journal"]
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.3390/molecules27186039"
+url_source: ""
 url_video: ""
 ---

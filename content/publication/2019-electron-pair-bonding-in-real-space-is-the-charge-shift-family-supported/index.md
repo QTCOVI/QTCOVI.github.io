@@ -3,8 +3,8 @@ title: "Electron-pair bonding in real space. Is the charge-shift family supporte
 authors:
 - J. Luis Casals-Sainz
 - F. Jiménez-Grávalos
-- E. Francisco
-- A. Martín Pendás
+- evelio-francisco
+- angel-pendas
 date: "2019-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:38:26Z"
 publication_types: ["article-journal"]
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1039/c9cc02123j"
+url_source: ""
 url_video: ""
 ---

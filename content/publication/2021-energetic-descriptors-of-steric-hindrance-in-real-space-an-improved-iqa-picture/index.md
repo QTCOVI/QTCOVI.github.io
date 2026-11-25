@@ -2,8 +2,8 @@
 title: "Energetic Descriptors of Steric Hindrance in Real Space: An Improved IQA Picture**"
 authors:
 - Miguel Gallegos
-- Aurora Costales
-- Ángel Martín Pendás
+- aurora-costales
+- angel-pendas
 date: "2021-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:37:57Z"
 publication_types: ["article-journal"]
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1002/cphc.202000975"
+url_source: ""
 url_video: ""
 ---

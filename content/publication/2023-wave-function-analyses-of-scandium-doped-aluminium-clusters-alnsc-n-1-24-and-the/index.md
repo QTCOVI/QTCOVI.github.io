@@ -4,7 +4,7 @@ authors:
 - José Manuel Guevara-Vela
 - Arturo Sauza-de la Vega
 - Miguel Gallegos
-- Ángel Martín Pendás
+- angel-pendas
 - Tomas Rocha-Rinza
 date: "2023-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:37:35Z"
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1039/d3cp01730c"
+url_source: ""
 url_video: ""
 ---

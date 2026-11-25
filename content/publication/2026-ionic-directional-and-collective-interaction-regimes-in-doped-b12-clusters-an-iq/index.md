@@ -2,7 +2,7 @@
 title: "Ionic, Directional, and Collective Interaction Regimes in Doped B12 Clusters: An IQA Perspective"
 authors:
 - José Manuel Guevara-Vela
-- Ángel Martín Pendás
+- angel-pendas
 - Tomás Rocha-Rinza
 date: "2026-01-01T00:00:00Z"
 publishDate: "2026-08-24T04:33:40Z"
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/acs.inorgchem.6c02636"
+url_source: ""
 url_video: ""
 ---

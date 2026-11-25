@@ -1,7 +1,7 @@
 ---
 title: "Theoretical study of neutral and anionic group III nitride clusters: MnNn (M = Al, Ga, and In; n=4-6)"
 authors:
-- Aurora Costales
+- aurora-costales
 - Anil K. Kandalam
 - Ravindra Pandey
 date: "2003-01-01T00:00:00Z"
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/jp022417s"
+url_source: ""
 url_video: ""
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Molecular dynamics simulations of the dinuclear zinc-beta-lactamase from bacteroides fragilis complexed with imipenem"
 authors:
-- Dimas Suárez
-- Natalia Díaz
+- dimas-suarez
+- natalia-diaz
 - Kenneth M. Merz
 date: "2002-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:44:26Z"
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1002/jcc.10157"
+url_source: ""
 url_video: ""
 ---

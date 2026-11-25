@@ -2,9 +2,9 @@
 title: "Quantum mechanical cluster calculations of ionic materials: the ab initio perturbed ion (version 7) program"
 authors:
 - Víctor Luaña
-- Angel Martín Pendás
+- angel-pendas
 - JoséManuel Recio
-- Evelio Francisco
+- evelio-francisco
 - Margarita Bermejo
 date: "1993-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:41:08Z"
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1016/0010-4655(93)90041-a"
+url_source: ""
 url_video: ""
 ---

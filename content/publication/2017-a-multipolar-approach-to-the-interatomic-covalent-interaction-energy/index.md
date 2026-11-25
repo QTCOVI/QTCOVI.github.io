@@ -1,10 +1,10 @@
 ---
 title: "A multipolar approach to the interatomic covalent interaction energy"
 authors:
-- Evelio Francisco
+- evelio-francisco
 - Daniel Menéndez Crespo
-- Aurora Costales
-- Ángel Martín Pendás
+- aurora-costales
+- angel-pendas
 date: "2017-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:38:46Z"
 publication_types: ["article-journal"]
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1002/jcc.24758"
+url_source: ""
 url_video: ""
 ---

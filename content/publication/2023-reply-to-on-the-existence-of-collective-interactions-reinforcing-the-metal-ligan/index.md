@@ -5,7 +5,7 @@ authors:
 - Shahin Sowlati-Hashjin
 - SeyedAbdolreza Sadjadi
 - Mikko Karttunen
-- Angel Martín-Pendás
+- angel-pendas
 - Cina Foroutan-Nejad
 date: "2023-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:37:32Z"
@@ -20,6 +20,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1038/s41467-023-39504-3"
+url_source: ""
 url_video: ""
 ---

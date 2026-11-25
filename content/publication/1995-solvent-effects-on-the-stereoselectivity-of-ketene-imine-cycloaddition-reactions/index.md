@@ -2,7 +2,7 @@
 title: "SOLVENT EFFECTS ON THE STEREOSELECTIVITY OF KETENE-IMINE CYCLOADDITION REACTIONS"
 authors:
 - R. López
-- D. Suárez
+- dimas-suarez
 - M. F. Ruiz-López
 - J. González
 - J. A. Sordo
@@ -20,6 +20,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1039/c39950001677"
+url_source: ""
 url_video: ""
 ---

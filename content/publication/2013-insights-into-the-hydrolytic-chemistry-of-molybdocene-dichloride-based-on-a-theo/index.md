@@ -1,7 +1,7 @@
 ---
 title: "Insights into the hydrolytic chemistry of molybdocene dichloride based on a theoretical mechanistic study"
 authors:
-- Dimas Suárez
+- dimas-suarez
 - Mohammad Zakarianezhad
 - Ramón López
 date: "2013-01-01T00:00:00Z"
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1007/s00214-013-1409-x"
+url_source: ""
 url_video: ""
 ---

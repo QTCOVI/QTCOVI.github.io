@@ -3,9 +3,9 @@ title: "Non-nuclear maxima of the electron density on alkaline metals"
 authors:
 - Vı́ctor Luaña
 - Paula Mori-Sánchez
-- Aurora Costales
+- aurora-costales
 - M. A. Blanco
-- A. Martı́n Pendás
+- angel-pendas
 date: "2003-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:42:44Z"
 publication_types: ["article-journal"]
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1063/1.1600433"
+url_source: ""
 url_video: ""
 ---

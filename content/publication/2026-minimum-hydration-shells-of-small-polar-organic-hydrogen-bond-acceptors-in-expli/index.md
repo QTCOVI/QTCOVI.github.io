@@ -5,9 +5,9 @@ authors:
 - Jesús Iván Salazar-Barrientos
 - José Manuel Guevara-Vela
 - Samuel García-García
-- Evelio Francisco
+- evelio-francisco
 - Tomás Rocha-Rinza
-- Ángel Martín Pendás
+- angel-pendas
 date: "2026-01-01T00:00:00Z"
 publishDate: "2026-10-12T11:25:15Z"
 publication_types: ["article-journal"]
@@ -21,6 +21,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.3390/molecules31203583"
+url_source: ""
 url_video: ""
 ---

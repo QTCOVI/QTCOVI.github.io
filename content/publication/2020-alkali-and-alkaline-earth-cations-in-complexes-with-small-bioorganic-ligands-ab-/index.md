@@ -2,8 +2,8 @@
 title: "Alkali and Alkaline-Earth Cations in Complexes with Small Bioorganic Ligands: Ab Initio Benchmark Calculations and Bond Energy Decomposition"
 authors:
 - Roberto López
-- Natalia Díaz
-- Dimas Suárez
+- natalia-diaz
+- dimas-suarez
 date: "2020-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:43:23Z"
 publication_types: ["article-journal"]
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1002/cphc.201900877"
+url_source: ""
 url_video: ""
 ---

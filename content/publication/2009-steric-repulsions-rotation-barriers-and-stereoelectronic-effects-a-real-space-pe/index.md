@@ -1,9 +1,9 @@
 ---
 title: "Steric Repulsions, Rotation Barriers, and Stereoelectronic Effects: A Real Space Perspective"
 authors:
-- A. Martín Pendás
+- angel-pendas
 - M. A. Blanco
-- E. Francisco
+- evelio-francisco
 date: "2009-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:39:53Z"
 publication_types: ["article-journal"]
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1002/jcc.21034"
+url_source: ""
 url_video: ""
 ---

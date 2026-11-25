@@ -4,9 +4,9 @@ authors:
 - José Manuel Guevara-Vela
 - Miguel Gallegos
 - Mónica A. Valentín-Rodríguez
-- Aurora Costales
+- aurora-costales
 - Tomás Rocha-Rinza
-- Ángel Martín Pendás
+- angel-pendas
 date: "2021-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:37:54Z"
 publication_types: ["article-journal"]
@@ -20,6 +20,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.3390/molecules26144196"
+url_source: ""
 url_video: ""
 ---

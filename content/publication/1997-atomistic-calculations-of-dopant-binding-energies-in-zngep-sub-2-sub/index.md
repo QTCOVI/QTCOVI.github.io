@@ -3,7 +3,7 @@ title: "Atomistic calculations of dopant binding energies in ZnGeP<sub>2</sub>"
 authors:
 - Ravindra Pandey
 - Melvin C. Ohmer
-- A. Costales
+- aurora-costales
 - J. M. Recio
 date: "1997-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:43:03Z"
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1557/proc-484-525"
+url_source: ""
 url_video: ""
 ---

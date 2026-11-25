@@ -3,7 +3,7 @@ title: "An IQA/QTAIM Approach to the Chalcogen Bond"
 authors:
 - Fernando Jiménez-Grávalos
 - Alexander S. Novikov
-- Ángel Martín Pendás
+- angel-pendas
 date: "2026-01-01T00:00:00Z"
 publishDate: "2026-06-01T09:09:40Z"
 publication_types: ["article-journal"]
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.4208/cicc.2026.60.01"
+url_source: ""
 url_video: ""
 ---

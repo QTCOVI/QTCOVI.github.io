@@ -1,7 +1,7 @@
 ---
 title: "Pyrone-like structures as novel oxygen-based organic superbases"
 authors:
-- Dimas Suárez
+- dimas-suarez
 - J. Angel Menéndez
 - Enrique Fuente
 - Miguel A. Montes-Morán
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1002/(sici)1521-3773(20000403)39:7<1320::aid-anie1320>3.0.co;2-e"
+url_source: ""
 url_video: ""
 ---

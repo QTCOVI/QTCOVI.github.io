@@ -1,9 +1,9 @@
 ---
 title: "Ab Initio Benchmark Calculations on Ca(II) Complexes and Assessment of Density Functional Theory Methodologies"
 authors:
-- Dimas Suárez
+- dimas-suarez
 - Víctor M. Rayón
-- Natalia Díaz
+- natalia-diaz
 - Haydée Valdés
 date: "2011-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:43:48Z"
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/jp205101z"
+url_source: ""
 url_video: ""
 ---

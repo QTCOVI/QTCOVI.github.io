@@ -2,9 +2,9 @@
 title: "Tetrel Interactions from an Interacting Quantum Atoms Perspective"
 authors:
 - José Luis Casals-Sainz
-- Aurora Costales Castro
-- Evelio Francisco
-- Ángel Martín Pendás
+- aurora-costales
+- evelio-francisco
+- angel-pendas
 date: "2019-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:38:19Z"
 publication_types: ["article-journal"]
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.3390/molecules24122204"
+url_source: ""
 url_video: ""
 ---

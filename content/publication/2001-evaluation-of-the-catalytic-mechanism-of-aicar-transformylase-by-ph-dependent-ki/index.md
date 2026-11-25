@@ -4,8 +4,8 @@ authors:
 - Jae Hoon Shim
 - Mark Wall
 - Stephen J. Benkovic
-- Natalia Díaz
-- Dimas Suárez
+- natalia-diaz
+- dimas-suarez
 - Kenneth M. Merz
 date: "2001-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:44:31Z"
@@ -20,6 +20,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/ja010014k"
+url_source: ""
 url_video: ""
 ---

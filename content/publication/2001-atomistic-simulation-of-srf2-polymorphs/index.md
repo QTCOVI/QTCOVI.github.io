@@ -1,7 +1,7 @@
 ---
 title: "Atomistic simulation of SrF2 polymorphs"
 authors:
-- E. Francisco
+- evelio-francisco
 - M. A. Blanco
 - G. Sanjurjo
 date: "2001-01-01T00:00:00Z"
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1103/physrevb.63.094107"
+url_source: ""
 url_video: ""
 ---

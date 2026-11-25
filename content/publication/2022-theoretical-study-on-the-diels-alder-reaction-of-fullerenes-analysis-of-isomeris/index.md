@@ -1,7 +1,7 @@
 ---
 title: "Theoretical Study on the Diels–Alder Reaction of Fullerenes: Analysis of Isomerism, Aromaticity, and Solvation"
 authors:
-- Diogo J. L. Rodrigues
+- diogo-rodrigues
 - Luís M. N. B. F. Santos
 - André Melo
 - Carlos F. R. A. C. Lima
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.3390/org3040025"
+url_source: ""
 url_video: ""
 ---

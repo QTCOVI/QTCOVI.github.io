@@ -3,7 +3,7 @@ title: "Collective Interactions in Ion Pairs"
 authors:
 - Jorge Gonzalo
 - Julen Munárriz
-- Angel Martín Pendás
+- angel-pendas
 - Jorge Echeverría
 date: "2026-01-01T00:00:00Z"
 publishDate: "2026-06-01T09:09:39Z"
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1002/jcc.70408"
+url_source: ""
 url_video: ""
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Kinetic and binding effects in peptide substrate selectivity of matrix metalloproteinase-2: Molecular dynamics and QM/MM calculations"
 authors:
-- Natalia Díaz
-- Dimas Suárez
+- natalia-diaz
+- dimas-suarez
 - Ernesto Suárez
 date: "2010-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:43:53Z"
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1002/prot.22493"
+url_source: ""
 url_video: ""
 ---

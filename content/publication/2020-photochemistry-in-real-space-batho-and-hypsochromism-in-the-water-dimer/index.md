@@ -4,9 +4,9 @@ authors:
 - Alberto Fernández‐Alarcón
 - José Manuel Guevara‐Vela
 - José Luis Casals‐Sainz
-- Aurora Costales
-- Evelio Francisco
-- Ángel Martín Pendás
+- aurora-costales
+- evelio-francisco
+- angel-pendas
 - Tomás Rocha Rinza
 date: "2020-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:38:05Z"
@@ -21,6 +21,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1002/chem.202002854"
+url_source: ""
 url_video: ""
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Potential Energy Surface of Pt6 Sub-Nano Clusters Deposited over Graphene"
 authors:
-- Daniel Barrena-Espés
+- daniel-barrena
 - Sergio Boneta
 - Victor Polo
 - Julen Munárriz
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.3390/ijms24010870"
+url_source: ""
 url_video: ""
 ---

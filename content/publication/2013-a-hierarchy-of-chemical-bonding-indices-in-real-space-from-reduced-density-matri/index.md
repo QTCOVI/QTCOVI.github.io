@@ -1,8 +1,8 @@
 ---
 title: "A hierarchy of chemical bonding indices in real space from reduced density matrices and cumulants"
 authors:
-- E. Francisco
-- A. Martín Pendás
+- evelio-francisco
+- angel-pendas
 - M. García-Revilla
 - R. Álvarez Boto
 date: "2013-01-01T00:00:00Z"
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1016/j.comptc.2012.09.009"
+url_source: ""
 url_video: ""
 ---

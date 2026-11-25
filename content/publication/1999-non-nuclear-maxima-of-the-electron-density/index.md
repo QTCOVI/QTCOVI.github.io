@@ -1,9 +1,9 @@
 ---
 title: "Non-nuclear Maxima of the Electron Density"
 authors:
-- A. Martín Pendás
+- angel-pendas
 - M. A. Blanco
-- Aurora Costales
+- aurora-costales
 - Paula Mori Sánchez
 - Víctor Luaña
 date: "1999-01-01T00:00:00Z"
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1103/physrevlett.83.1930"
+url_source: ""
 url_video: ""
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Shannon and Rényi Entropies of Molecular Densities Under Atomic Partitioning: Insights Into Extensity and an Incomplete Description of Electron Correlation"
 authors:
-- Diogo J. L. Rodrigues
-- Evelio Francisco
-- Ángel Martín Pendás
+- diogo-rodrigues
+- evelio-francisco
+- angel-pendas
 date: "2026-01-01T00:00:00Z"
 publishDate: "2026-05-11T06:57:42Z"
 publication_types: ["article-journal"]
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1002/qua.70201"
+url_source: ""
 url_video: ""
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Local compressibilities in crystals"
 authors:
-- A. Martín Pendás
-- Aurora Costales
+- angel-pendas
+- aurora-costales
 - M. A. Blanco
 - J. M. Recio
 - Víctor Luaña
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1103/physrevb.62.13970"
+url_source: ""
 url_video: ""
 ---

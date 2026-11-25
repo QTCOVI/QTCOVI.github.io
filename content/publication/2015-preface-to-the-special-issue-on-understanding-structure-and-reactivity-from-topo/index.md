@@ -1,7 +1,7 @@
 ---
 title: "Preface to the Special Issue on “Understanding structure and reactivity from topology and beyond”"
 authors:
-- Ángel Martín Pendás
+- angel-pendas
 - Julia Contreras-García
 date: "2015-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:39:12Z"
@@ -16,6 +16,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1016/j.comptc.2014.12.019"
+url_source: ""
 url_video: ""
 ---

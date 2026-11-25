@@ -4,7 +4,7 @@ authors:
 - P. B. Coto
 - D. Roca-Sanjuán
 - L. Serrano-Andrés
-- A. Martín-Pendás
+- angel-pendas
 - S. Martí
 - J. Andrés
 date: "2009-01-01T00:00:00Z"
@@ -20,6 +20,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/ct900401z"
+url_source: ""
 url_video: ""
 ---

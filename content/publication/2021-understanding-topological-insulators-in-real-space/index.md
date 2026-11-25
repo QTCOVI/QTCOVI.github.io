@@ -1,7 +1,7 @@
 ---
 title: "Understanding Topological Insulators in Real Space"
 authors:
-- Angel Martín Pendás
+- angel-pendas
 - Francisco Muñoz
 - Carlos Cardenas
 - Julia Contreras-García
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.3390/molecules26102965"
+url_source: ""
 url_video: ""
 ---

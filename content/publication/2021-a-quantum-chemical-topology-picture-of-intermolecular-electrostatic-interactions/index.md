@@ -2,7 +2,7 @@
 title: "A Quantum Chemical Topology Picture of Intermolecular Electrostatic Interactions and Charge Penetration Energy"
 authors:
 - Fernando Jiménez-Grávalos
-- Dimas Suárez
+- dimas-suarez
 date: "2021-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:43:18Z"
 publication_types: ["article-journal"]
@@ -16,6 +16,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/acs.jctc.1c00263"
+url_source: ""
 url_video: ""
 ---

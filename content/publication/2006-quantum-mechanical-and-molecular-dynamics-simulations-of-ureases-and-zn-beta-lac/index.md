@@ -2,7 +2,7 @@
 title: "Quantum mechanical and molecular dynamics simulations of ureases and Zn beta-lactamases"
 authors:
 - Guillermina Estiu
-- Dimas Suárez
+- dimas-suarez
 - Kenneth M. Merz
 date: "2006-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:44:09Z"
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1002/jcc.20411"
+url_source: ""
 url_video: ""
 ---

@@ -1,7 +1,7 @@
 ---
 title: "HETERO-DIELS-ALDER ADDITIONS OF SULFUR-DIOXIDE TO 1,3-DIENES - A PROPOSAL FOR A NEW REACTIVE DIENE FROM AB-INITIO CALCULATIONS"
 authors:
-- Dimas Suárez
+- dimas-suarez
 - Emiliano Iglesias
 - Tomás L. Sordo
 - José A. Sordo
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1016/0040-4020(95)00806-j"
+url_source: ""
 url_video: ""
 ---

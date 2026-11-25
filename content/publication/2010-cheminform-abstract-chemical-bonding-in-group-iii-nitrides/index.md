@@ -1,9 +1,9 @@
 ---
 title: "ChemInform Abstract: Chemical Bonding in Group III Nitrides."
 authors:
-- Aurora Costales
+- aurora-costales
 - Miguel A. Blanco
-- Angel Martin Pendas
+- angel-pendas
 - Anil K. Kandalam
 - Ravindra Pandey
 date: "2010-01-01T00:00:00Z"
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1002/chin.200224002"
+url_source: ""
 url_video: ""
 ---

@@ -1,8 +1,8 @@
 ---
 title: "NH3-assisted ammonolysis of beta-lactams: A theoretical study"
 authors:
-- Natalia Díaz
-- Dimas Suárez
+- natalia-diaz
+- dimas-suarez
 - Tomás L. Sordo
 date: "1999-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:44:50Z"
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/jo990137b"
+url_source: ""
 url_video: ""
 ---

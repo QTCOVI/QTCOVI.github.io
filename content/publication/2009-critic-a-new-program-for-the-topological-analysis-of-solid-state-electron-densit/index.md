@@ -3,7 +3,7 @@ title: "Critic: a new program for the topological analysis of solid-state electr
 authors:
 - A. Otero-de-la-Roza
 - M.A. Blanco
-- A. Martín Pendás
+- angel-pendas
 - Víctor Luaña
 date: "2009-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:39:52Z"
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1016/j.cpc.2008.07.018"
+url_source: ""
 url_video: ""
 ---

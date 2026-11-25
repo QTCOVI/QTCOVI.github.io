@@ -2,7 +2,7 @@
 title: "The Basicity of Carbons"
 authors:
 - Miguel A. Montes-Morán
-- Dimas Suárez
+- dimas-suarez
 - J. Angel Menéndez
 - Enrique Fuente
 date: "2012-01-01T00:00:00Z"
@@ -18,6 +18,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1016/b978-0-08-097744-7.00006-5"
+url_source: ""
 url_video: ""
 ---

@@ -3,8 +3,8 @@ title: "The nature of resonance-assisted hydrogen bonds: a quantum chemical topo
 authors:
 - José Manuel Guevara-Vela
 - Eduardo Romero-Montalvo
-- Aurora Costales
-- Ángel Martín Pendás
+- aurora-costales
+- angel-pendas
 - Tomás Rocha-Rinza
 date: "2016-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:39:05Z"
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1039/c6cp04386k"
+url_source: ""
 url_video: ""
 ---

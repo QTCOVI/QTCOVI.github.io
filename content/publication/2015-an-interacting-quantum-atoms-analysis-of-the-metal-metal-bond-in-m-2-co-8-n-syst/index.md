@@ -2,10 +2,10 @@
 title: "An Interacting Quantum Atoms Analysis of the Metal-Metal Bond in M-2(CO)(8) (n) Systems"
 authors:
 - Davide Tiana
-- E. Francisco
+- evelio-francisco
 - P. Macchi
 - Angelo Sironi
-- A. Martín Pendás
+- angel-pendas
 date: "2015-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:39:15Z"
 publication_types: ["article-journal"]
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/acs.jpca.5b00070"
+url_source: ""
 url_video: ""
 ---

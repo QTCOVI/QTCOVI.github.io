@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} QTCOVI – Universidad de Oviedo'
+    notice: '© {year} QTCOVI · Departamento de Química Física y Analítica, Facultad de Química, Universidad de Oviedo, 33006 Oviedo, Spain · [Contact](/contact/) · [GitHub](https://github.com/QTCOVI)'
     license:
       enable: false
 

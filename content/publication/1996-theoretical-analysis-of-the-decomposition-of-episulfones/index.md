@@ -1,7 +1,7 @@
 ---
 title: "Theoretical analysis of the decomposition of episulfones"
 authors:
-- D. Suárez
+- dimas-suarez
 - J. A. Sordo
 - T. L. Sordo
 date: "1996-01-01T00:00:00Z"
@@ -17,6 +17,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/jp960382o"
+url_source: ""
 url_video: ""
 ---

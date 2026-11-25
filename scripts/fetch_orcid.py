@@ -14,6 +14,7 @@ Output:
     content/publication/{slug}/index.md  — one file per unique publication
 """
 
+import difflib
 import re
 import sys
 import time
@@ -23,6 +24,9 @@ from typing import Dict, List, Optional, Set, Tuple
 
 import requests
 import yaml
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from author_map import canonical_list  # noqa: E402
 
 ORCID_API = "https://pub.orcid.org/v3.0"
 CROSSREF_API = "https://api.crossref.org/works"
@@ -123,7 +127,6 @@ def build_publication_md(title: str, authors: List[str], year: Optional[int],
     date_str = f"{year}-01-01T00:00:00Z" if year else "2000-01-01T00:00:00Z"
     author_list = "\n".join(f"- {a}" for a in authors) if authors else f"- {member_slug}"
     doi_line = f'doi: "{doi}"' if doi else 'doi: ""'
-    url_doi = f"https://doi.org/{doi}" if doi else ""
     safe_title = _yaml_safe(title)
     safe_journal = _yaml_safe(journal)
     safe_abstract = _yaml_safe(abstract)[:1000] if abstract else ""
@@ -145,7 +148,7 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "{url_doi}"
+url_source: ""
 url_video: ""
 ---
 """
@@ -209,6 +212,7 @@ def process_member(member: Dict, seen_dois: Set[str]) -> List[Tuple[str, str]]:
                     given = a.get("given", "")
                     family = a.get("family", "")
                     authors.append(f"{given} {family}".strip())
+                authors = canonical_list(authors)
                 if not journal_title:
                     container = cr.get("container-title", [])
                     journal_title = container[0] if container else ""
@@ -227,6 +231,37 @@ def process_member(member: Dict, seen_dois: Set[str]) -> List[Tuple[str, str]]:
     return results
 
 
+PREPRINT_DOI = re.compile(r"^10\.(26434|33774|20944|48550)/")  # ChemRxiv, Preprints.org, arXiv
+
+
+def _title_key(text: str) -> str:
+    return re.sub(r"[^a-z0-9]", "", text.lower())
+
+
+def _md_field(md: str, field: str) -> str:
+    m = re.search(rf'^{field}: "(.*)"', md, re.M)
+    return m.group(1) if m else ""
+
+
+def drop_published_preprints(pubs: List[Tuple[str, str]]) -> List[Tuple[str, str]]:
+    """Skip preprints whose journal version is already on the site or in this run."""
+    journal_titles = [_title_key(_md_field(md, "title")) for _, md in pubs
+                      if not PREPRINT_DOI.match(_md_field(md, "doi"))]
+    for f in CONTENT_DIR.glob("*/index.md"):
+        md = f.read_text(encoding="utf-8")
+        if not PREPRINT_DOI.match(_md_field(md, "doi")):
+            journal_titles.append(_title_key(_md_field(md, "title")))
+    kept = []
+    for slug, md in pubs:
+        if PREPRINT_DOI.match(_md_field(md, "doi")):
+            key = _title_key(_md_field(md, "title"))
+            if any(difflib.SequenceMatcher(None, key, t).ratio() >= 0.85 for t in journal_titles):
+                print(f"  - skip preprint with journal version: {slug}")
+                continue
+        kept.append((slug, md))
+    return kept
+
+
 def main():
     if not CONFIG_FILE.exists():
         print(f"Config file {CONFIG_FILE} not found", file=sys.stderr)
@@ -241,8 +276,11 @@ def main():
     seen_dois: Set[str] = set()
     total = 0
 
+    pubs: List[Tuple[str, str]] = []
     for member in members:
-        pubs = process_member(member, seen_dois)
+        pubs.extend(process_member(member, seen_dois))
+    pubs = drop_published_preprints(pubs)
+    if True:
         for file_slug, md in pubs:
             pub_dir = CONTENT_DIR / file_slug
             pub_dir.mkdir(exist_ok=True)

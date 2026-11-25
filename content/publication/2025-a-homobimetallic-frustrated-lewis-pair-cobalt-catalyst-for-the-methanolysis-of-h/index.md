@@ -2,7 +2,7 @@
 title: "A Homobimetallic Frustrated Lewis Pair Cobalt Catalyst for the Methanolysis of Hydrosilanes"
 authors:
 - Ana Luque‐Gómez
-- Daniel Barrena‐Espés
+- daniel-barrena
 - Pilar García‐Orduña
 - Andrea Pérez‐García
 - Miguel A. Casado
@@ -21,6 +21,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1002/ange.202513522"
+url_source: ""
 url_video: ""
 ---

@@ -1,11 +1,11 @@
 ---
 title: "Pressure-induced B1-B2 phase transition in alkali halides: General aspects from first-principles calculations."
 authors:
-- A. Martín Pendás
+- angel-pendas
 - V. Luaña
 - J. M. Recio
 - M. Flórez
-- E. Francisco
+- evelio-francisco
 - M. A. Blanco
 - L. N. Kantorovich
 date: "1994-01-01T00:00:00Z"
@@ -21,6 +21,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1103/physrevb.49.3066"
+url_source: ""
 url_video: ""
 ---

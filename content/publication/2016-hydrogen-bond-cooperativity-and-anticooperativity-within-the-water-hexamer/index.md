@@ -6,8 +6,8 @@ authors:
 - Víctor Arturo Mora Gómez
 - Rodrigo Chávez-Calvillo
 - Marco García-Revilla
-- Evelio Francisco
-- Ángel Martín Pendás
+- evelio-francisco
+- angel-pendas
 - Tomás Rocha-Rinza
 date: "2016-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:38:57Z"
@@ -22,6 +22,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1039/c6cp00763e"
+url_source: ""
 url_video: ""
 ---

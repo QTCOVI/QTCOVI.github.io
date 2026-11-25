@@ -2,8 +2,8 @@
 title: "Convergence of the multipole expansion for 1,2 Coulomb interactions: The modified multipole shifting algorithm"
 authors:
 - C. J. F. Solano
-- A. Martín Pendás
-- E. Francisco
+- angel-pendas
+- evelio-francisco
 - M. A. Blanco
 - P. L. A. Popelier
 date: "2010-01-01T00:00:00Z"
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1063/1.3430523"
+url_source: ""
 url_video: ""
 ---

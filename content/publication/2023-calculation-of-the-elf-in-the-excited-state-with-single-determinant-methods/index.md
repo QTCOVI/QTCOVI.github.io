@@ -4,7 +4,7 @@ authors:
 - Andrea Echeverri
 - Miguel Gallegos
 - Tatiana Gómez
-- Ángel Martín Pendás
+- angel-pendas
 - Carlos Cárdenas
 date: "2023-01-01T00:00:00Z"
 publishDate: "2026-04-27T11:37:33Z"
@@ -19,6 +19,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1063/5.0142918"
+url_source: ""
 url_video: ""
 ---

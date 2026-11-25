@@ -4,7 +4,7 @@ authors:
 - Inés Sánchez-Movellán
 - Toraya Fernández-Ruiz
 - Richard Dronskowski
-- Ángel Martín-Pendás
+- angel-pendas
 - Pablo García-Fernández
 - Miguel Moreno
 - José Antonio Aramburu
@@ -21,6 +21,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1021/acs.inorgchem.5c01522"
+url_source: ""
 url_video: ""
 ---

@@ -3,9 +3,9 @@ title: "An Integrated Computational and Experimental Approach to Gaining Selecti
 authors:
 - Benjamin Fabre
 - Kamila Filipiak
-- Natalia Díaz
+- natalia-diaz
 - José María Zapico
-- Dimas Suárez
+- dimas-suarez
 - Ana Ramos
 - Beatriz de Pascual‐Teresa
 date: "2014-01-01T00:00:00Z"
@@ -21,6 +21,6 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://doi.org/10.1002/cbic.201300698"
+url_source: ""
 url_video: ""
 ---
